@@ -166,7 +166,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 # 📃 Patent
 - H. Jiao, M. Liu, and **<u>C. Zhou</u>**, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
 
-# 🍀 Tape Out
+# ![image](https://github.com/zhouchch3/changchunzhou/blob/main/images/Chip.png) Tape Out
 - (8/2023, Project Leader) An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm                                                                 
 - (8/2020, Project Leader) A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm                                                                        
 - (6/2022, Module  Leader) A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm                                                                     
@@ -177,7 +177,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
-# ![0D4D876E]() About Me: 
+# ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am an Easy Going and Self-Motivated Person.
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), Table Tennis.
 
