@@ -173,7 +173,8 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - A 2.0 TOPS/W CNN accelerator skipping invalid activations was fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm                                                                                                     (Module Leader, 10/2019)
 
 # 🚀 Skills
-- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde•	Tools: Cadence, Vivado, PyTorch, TensorFlow 
+- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde
+- Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
