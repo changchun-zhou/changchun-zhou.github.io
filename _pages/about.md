@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](../docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
+I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
 E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -31,16 +31,16 @@ E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🎖 Honors and Awards
--	**Leo KoGuan Scholarship (1/157)**, *Peking University*                                                      10/2023
--	**Exceptional Award for Academic Innovation**, *Peking University*                                           10/2023
--	Merit Student, *Peking University*                                                                           10/2023
--	Award for Scientific Research, *Peking University*                                                           12/2022
--	Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    5/2021
--	Merit Student, *Peking University*                                                                           10/2019
--	National Inspirational Scholarship, *Sun Yat-sen University*                                                 10/2016
--	First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      5/2016
--	National Inspirational Scholarship, *Sun Yat-sen University*                                                 10/2015
--	First Class Scholarship, *Sun Yat-sen University*                                                            10/2015
+- 10/2023 **Leo KoGuan Scholarship (1/157)**, *Peking University*                                                      
+- 10/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
+- 10/2023 Merit Student, *Peking University*                                                                           
+- 12/2022 Award for Scientific Research, *Peking University*                                                           
+- 5/2021  Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
+- 10/2019 Merit Student, *Peking University*                                                                           
+- 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
+- 5/2016  First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
+- 10/2015 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
+- 10/2015 First Class Scholarship, *Sun Yat-sen University*                                                            
 
 
 # 📝 Publications 
@@ -88,7 +88,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance [[pdf](../docs/ICCAD.pdf)]
+An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/ICCAD.pdf)]
 
 **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
@@ -177,7 +177,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
-# ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
+# ![0D4D876E]() About Me: 
 - I am an Easy Going and Self-Motivated Person.
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), Table Tennis.
 
