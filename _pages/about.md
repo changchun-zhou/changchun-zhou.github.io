@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my CV. I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
+I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
 E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -31,8 +31,8 @@ E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🎖 Honors and Awards
--	Leo KoGuan Scholarship (1/157), *Peking University*                                                          10/2023
--	Exceptional Award for Academic Innovation, *Peking University*                                               10/2023
+-	**Leo KoGuan Scholarship (1/157)**, *Peking University*                                                          10/2023
+-	**Exceptional Award for Academic Innovation**, *Peking University*                                               10/2023
 -	Merit Student, *Peking University*                                                                           10/2023
 -	Award for Scientific Research, *Peking University*                                                           12/2022
 -	Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    5/2021
@@ -52,7 +52,7 @@ E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 **C. Zhou**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (JIOT, IF=10.6, JCR Q1)*
+*IEEE Internet of Things Journal (**JIOT**, IF=10.6, JCR Q1)*
 
 
 <details>
@@ -72,7 +72,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 **C. Zhou**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE/ACM Design Automation Conference (DAC)*
+*IEEE/ACM Design Automation Conference (**DAC**)*
 
 
 <details>
@@ -88,7 +88,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance
+An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance[pdf](docs/ICCAD.pdf)
 
 **C. Zhou**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
@@ -110,7 +110,7 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 
 Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis
 
-**C. Zhou\***, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
+**C. Zhou**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
 *IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**, Under Review)*
 
@@ -150,7 +150,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 Yuzhe Fu, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
-*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**, Under review)*
+*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**, Under Review)*
 
 
 <details>
@@ -164,7 +164,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 
 
 # 📃 Patent
-- H. Jiao, M. Liu, and C. Zhou, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
+- H. Jiao, M. Liu, and <u>**C. Zhou**</u>, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
 
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm                                                                 (Project Leader, 8/2023)
@@ -173,13 +173,12 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - A 2.0 TOPS/W CNN accelerator skipping invalid activations was fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm                                                                                                     (Module Leader, 10/2019)
 
 # 🚀 Skills
-- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde•	Tools: Cadence, Vivado, PyTorch, TensorFlow; 
+- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde•	Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am an Easy Going and Self-Motivated Person.
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), Table Tennis.
-
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
