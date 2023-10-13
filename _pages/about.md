@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
+I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](../docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
 E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -31,8 +31,8 @@ E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🎖 Honors and Awards
--	**Leo KoGuan Scholarship (1/157)**, *Peking University*                                                          10/2023
--	**Exceptional Award for Academic Innovation**, *Peking University*                                               10/2023
+-	**Leo KoGuan Scholarship (1/157)**, *Peking University*                                                      10/2023
+-	**Exceptional Award for Academic Innovation**, *Peking University*                                           10/2023
 -	Merit Student, *Peking University*                                                                           10/2023
 -	Award for Scientific Research, *Peking University*                                                           12/2022
 -	Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    5/2021
@@ -50,7 +50,7 @@ E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding, DOI: 10.1109/JIOT.2023.3306435.](https://ieeexplore.ieee.org/abstract/document/10224248/)
 
-**C. Zhou**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
+**<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
 *IEEE Internet of Things Journal (**JIOT**, IF=10.6, JCR Q1)*
 
@@ -70,7 +70,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 [An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance](https://ieeexplore.ieee.org/document/9586299)
 
-**C. Zhou**, M. Liu, S. Qiu, Y. He, and H. Jiao.
+**<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
 *IEEE/ACM Design Automation Conference (**DAC**)*
 
@@ -88,9 +88,9 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance[pdf](docs/ICCAD.pdf)
+An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance [[pdf](../docs/ICCAD.pdf)]
 
-**C. Zhou**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
+**<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
 *IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)*
 
@@ -110,7 +110,7 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 
 Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis
 
-**C. Zhou**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
+**<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
 *IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**, Under Review)*
 
@@ -129,7 +129,7 @@ Point cloud is increasingly used in a variety of applications. Farthest Point Sa
 
 [CNN Accelerator at the Edge with Adaptive Zero Skipping and Sparsity-Driven Data Flow](https://ieeexplore.ieee.org/abstract/document/10122694/)
 
-M. Liu, **C. Zhou**, S. Qiu, Y. He, and H. Jiao.
+M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
 
 *IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
 
@@ -148,7 +148,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
 
-Yuzhe Fu, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
+Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
 *IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**, Under Review)*
 
