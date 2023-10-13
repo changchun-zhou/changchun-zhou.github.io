@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph. D. candidate in the School of integrated Circuits, Peking University, Beijing, China, supervised by Prof. Hailong Jiao. I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). I am currently applying for a post-doctoral fellow, and if you are interested in me, please feel free to contact me at any time.
-E-mail: zhouchch@pku.edu.cn | WeChat: zhou1562786
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -165,9 +164,9 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 
 # 📃 Patent
 - H. Jiao, M. Liu, and **<u>C. Zhou</u>**, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
-
-# ![image](https://github.com/zhouchch3/changchunzhou/blob/main/images/Chip.png) Tape Out
-- (8/2023, Project Leader) An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm                                                                 
+<!-- ![image](https://github.com/zhouchch3/changchunzhou/blob/main/images/Chip.png) -->
+# 🍀 Tape Out
+- (8/2023, Project Leader) An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm                                                   
 - (8/2020, Project Leader) A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm                                                                        
 - (6/2022, Module  Leader) A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm                                                                     
 - (10/2019, Module Leader)A 2.0 TOPS/W CNN accelerator skipping invalid activations was fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm                                                                                                     
