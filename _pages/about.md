@@ -164,7 +164,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 
 
 # 📃 Patent
-- H. Jiao, M. Liu, and <u>**C. Zhou**</u>, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
+- H. Jiao, M. Liu, and **<u>C. Zhou</u>**, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
 
 # 🍀 Tape Out
 - (8/2023, Project Leader) An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm                                                                 
