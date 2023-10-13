@@ -177,7 +177,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
-# ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
+# :relaxed: About Me: 
 - I am an Easy Going and Self-Motivated Person.
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), Table Tennis.
 
