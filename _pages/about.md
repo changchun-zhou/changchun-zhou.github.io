@@ -34,10 +34,10 @@ I am currently a Ph. D. candidate in the School of integrated Circuits, Peking U
 - 10/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
 - 10/2023 Merit Student, *Peking University*                                                                           
 - 12/2022 Award for Scientific Research, *Peking University*                                                           
-- 5/2021 \ Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
+- 05/2021 Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
 - 10/2019 Merit Student, *Peking University*                                                                           
 - 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
-- 5/2016 \ First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
+- 05/2016 First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
 - 10/2015 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
 - 10/2015 First Class Scholarship, *Sun Yat-sen University*                                                            
 
