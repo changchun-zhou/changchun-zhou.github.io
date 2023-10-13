@@ -22,8 +22,8 @@ I am currently a Ph. D. candidate in the School of integrated Circuits, Peking U
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
-- *2018.09 - Present*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. **GPA: 3.6/4.0, 1/157 in Comprehensive Ranking** . Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding. 
-- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China. **•	GPA: 3.8/5.0** 
+- *2018.09 - Present*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding. **GPA: 3.6/4.0, 1/157 in Comprehensive Ranking**. 
+- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China. **GPA: 3.8/5.0** 
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -34,10 +34,10 @@ I am currently a Ph. D. candidate in the School of integrated Circuits, Peking U
 - 10/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
 - 10/2023 Merit Student, *Peking University*                                                                           
 - 12/2022 Award for Scientific Research, *Peking University*                                                           
-- 5/2021  Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
+- 5/2021 \ Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
 - 10/2019 Merit Student, *Peking University*                                                                           
 - 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
-- 5/2016  First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
+- 5/2016 \ First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
 - 10/2015 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
 - 10/2015 First Class Scholarship, *Sun Yat-sen University*                                                            
 
