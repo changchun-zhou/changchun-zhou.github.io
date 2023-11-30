@@ -166,10 +166,57 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - H. Jiao, M. Liu, and **<u>C. Zhou</u>**, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
 
 # 🍀 Tape Out
-- (8/2023, Project Leader) An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm      
-- (8/2020, Project Leader) A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm                                                                        
-- (6/2022, Module  Leader) A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow was fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm                                                                     
-- (10/2019, Module Leader)A 2.0 TOPS/W CNN accelerator skipping invalid activations was fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm                                                                                                     
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point Cloud</div><img src='images/28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator.
+
+8/2023, Project Leader
+
+Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
+
+8/2020, Project Leader
+
+Fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2D-CNN</div><img src='images/LIU_28_Chip.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow
+
+6/2022, Module Leader
+
+Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2D-CNN</div><img src='images/LIU_55_Chip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 2.0 TOPS/W CNN accelerator skipping invalid activations
+
+10/2019, Module Leader
+
+Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm
+
+</div>
+</div>
+
 
 # 🚀 Skills
 - Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde
