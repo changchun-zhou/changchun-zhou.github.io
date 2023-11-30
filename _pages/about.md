@@ -173,7 +173,7 @@ An energy-efficient pipelined and configurable 3D point cloud-based neural netwo
 
 8/2023, Project Leader
 
-Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm
+*Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm*
 
 </div>
 </div>
@@ -186,7 +186,7 @@ A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
 
 8/2020, Project Leader
 
-Fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm
+*Fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm*
 
 </div>
 </div>
@@ -199,7 +199,7 @@ A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dat
 
 6/2022, Module Leader
 
-Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm
+*Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm*
 
 </div>
 </div>
@@ -212,7 +212,7 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 
 10/2019, Module Leader
 
-Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm
+*Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm*
 
 </div>
 </div>
