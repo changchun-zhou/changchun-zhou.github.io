@@ -47,11 +47,11 @@ I am currently a Ph. D. candidate in the School of integrated Circuits, Peking U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIOT 2023</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding, DOI: 10.1109/JIOT.2023.3306435.](https://ieeexplore.ieee.org/abstract/document/10224248/)
+[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding.](https://ieeexplore.ieee.org/abstract/document/10224248/)
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (**JIOT**, IF=10.6, JCR Q1)*
+*IEEE Internet of Things Journal (**JIOT**, IF=10.6, Ranking 4/158, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
@@ -71,7 +71,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE/ACM Design Automation Conference (**DAC**)*
+*IEEE/ACM Design Automation Conference (**DAC**, Top in EDA and Processor Design, CCF-A)*
 
 
 <details>
@@ -91,7 +91,7 @@ An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality,
 
 **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
-*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)*
+*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**, Top in EDA and Processor Design)*
 
 
 <details>
@@ -111,7 +111,7 @@ Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point
 
 **<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
-*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**, Under Review)*
+*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**, Under Review, IF=4.4, JCR Q2, Chinese Academy of Sciences Q2)*
 
 
 <details>
@@ -130,7 +130,7 @@ Point cloud is increasingly used in a variety of applications. Farthest Point Sa
 
 M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
@@ -149,7 +149,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**, Under Review)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
@@ -176,7 +176,7 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
-# :relaxed: About Me: 
+# About Me: 
 - I am an Easy Going and Self-Motivated Person.
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), Table Tennis.
 
