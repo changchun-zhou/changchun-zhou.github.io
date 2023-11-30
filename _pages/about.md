@@ -142,7 +142,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2023</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
