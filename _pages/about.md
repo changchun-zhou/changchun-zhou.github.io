@@ -219,7 +219,7 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 
 
 # 🚀 Skills
-- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Trainingde
+- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Training
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
