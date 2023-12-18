@@ -149,7 +149,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Transactions on Circuits and Systems for Video Technology(Under Review, **TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
