@@ -185,7 +185,7 @@ Many healthcare devices have been widely used for electrocardiogram (ECG) monito
 - H. Jiao, M. Liu, and **<u>C. Zhou</u>**, “A Convolution Operation Device Based on Systolic Array”, CN Patent, ZL 202010447090.4, May 5, 2020.
 
 # 🍀 Tape Out
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point Cloud</div><img src='images/28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point Cloud</div><img src='images/28nm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator.
@@ -198,7 +198,7 @@ An energy-efficient pipelined and configurable 3D point cloud-based neural netwo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55nm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
