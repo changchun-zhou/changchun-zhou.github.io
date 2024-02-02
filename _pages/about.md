@@ -198,7 +198,7 @@ An energy-efficient pipelined and configurable 3D point cloud-based neural netwo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55nm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55nm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
