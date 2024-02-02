@@ -30,9 +30,9 @@ I received the Ph. D. degree of Microelectronics and Solid-State Electronics in 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 🎖 Honors and Awards
-- 10/2023 **Leo KoGuan Scholarship (1/157)**, *Peking University*                                                      
-- 10/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
-- 10/2023 Merit Student, *Peking University*                                                                           
+- 12/2023 **Leo KoGuan Scholarship (1/157, ¥20, 000)**, *Peking University*                                                      
+- 12/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
+- 12/2023 Merit Student, *Peking University*                                                                           
 - 12/2022 Award for Scientific Research, *Peking University*                                                           
 - 05/2021 Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
 - 10/2019 Merit Student, *Peking University*                                                                           
@@ -51,7 +51,7 @@ I received the Ph. D. degree of Microelectronics and Solid-State Electronics in 
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (**JIOT**, IF=10.6, Ranking 4/158, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Internet of Things Journal (**JIOT**) (IF=10.6, Ranking 4/158, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
@@ -71,7 +71,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE/ACM Design Automation Conference (**DAC**, Top in EDA and Processor Design, CCF-A)*
+*IEEE/ACM Design Automation Conference (**DAC**) (Top in EDA and Processor Design, CCF-A)*
 
 
 <details>
@@ -87,11 +87,11 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/ICCAD.pdf)]
+[An Energy-Efficient 3D Point Cloud Neural Network Accelerator With Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
 
 **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
-*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**, Top in EDA and Processor Design)*
+*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**) (Top in EDA and Processor Design)*
 
 
 <details>
@@ -104,14 +104,14 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2023</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2024</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis
+Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/TCASII.pdf)]
 
 **<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
-*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**, Under Review, IF=4.4, JCR Q2, Chinese Academy of Sciences Q2)*
+*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**) (Accepted, IF=4.4, JCR Q2, Chinese Academy of Sciences Q2)*
 
 
 <details>
@@ -130,7 +130,7 @@ Point cloud is increasingly used in a variety of applications. Farthest Point Sa
 
 M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**) (IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
@@ -142,19 +142,38 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
 
 Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(Under Review, **TCSVT**, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**) (Under Review, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
 
 
 <details>
 <summary>Abstract</summary>
 Transformer-based deep learning networks are revolutionizing our society. The convolution and attention codesigned (CAC) Transformers have demonstrated superior performance compared to the conventional Transformer-based networks. However, CAC Transformer networks contain various nonlinear functions, such as softmax and complex activation functions, which require high precision hardware design yet typically with significant cost in area and power consumption. To address these challenges, SoftAct, a compact and high-precision algorithm-hardware co-designed architecture, is proposed to implement both softmax and nonlinear activation functions in CAC Transformer accelerators. An improved softmax algorithm with penalties is proposed to maintain precision in hardware. A stage-wise full zero detection method is developed to skip redundant computation in softmax. A compact and reconfigurable architecture with a symmetrically designed linear fitting module is proposed to achieve nonlinear functions. The SoftAct architecture is designed in an industrial 28-nm CMOS technology with the MobileViT-xxs network as the benchmark. Compared with the state of the art, SoftAct achieves up to 35.14% network accuracy improvement, 10× maximum frequency, and 809× overall efficiency.
+
+</details>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/ISCAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/ISCAS.pdf)]
+
+C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang
+
+*IEEE International Symposium on Circuits and Systems (**ISCAS**) (Accepted)*
+
+
+<details>
+<summary>Abstract</summary>
+Many healthcare devices have been widely used for electrocardiogram (ECG) monitoring. However, most of them have relatively low energy efficiency and lack flexibility. A novel ECG coprocessor is proposed in this paper, which can perform efficient ECG nomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, an algorithm based on Hilbert transform and adaptive threshold comparison is proposed. Also, a flexible one-dimensional convolutional neural network (1-D CNN) based classification engine is adopted, which can be configured with instructions to process various network models for ifferent applications. Good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the processing element (PE) array with data reuse strategy. A 1-D CNN for arrhythmia detection is proposed to validate the hardware performance. The proposed ECG coprocessor is implemented using 55 nm CMOS technology, occupying an area of 1.39 mm2. At a clock frequency of 100MHz, the energy efficiency is 215.6 nJ/classification. The comparison results show that this design has advantages in energy overhead and detection performance.
 
 </details>
 
