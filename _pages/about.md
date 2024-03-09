@@ -107,7 +107,7 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2024</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/TCASII.pdf)]
+[Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
 
 **<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
