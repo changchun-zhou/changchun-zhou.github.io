@@ -47,7 +47,7 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 
 Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
 
-**<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, H. Jiao.
+**<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao.
 
 *IEEE International Solid-State Circuits Conference (**<font color=blue> ISSCC </font>**) Dig. Tech. Papers* (Accepted)
 
