@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Changchun Zhou"
-description              : "Ph.D. from Peking University, Interested in Energy-Efficient AI Accelerator for Edge Computing and Algorithm-Hardware Co-Design"
-repository               : "zhouchch3.github.io/changchunzhou/"
+description              : "Postdoctoral Fellow\nInterested in AI Chips"
+repository               : "changchun-zhou.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Changchun Zhou (周长春)"
-  avatar           : "images/Head.jpg"
-  bio              : "Peking University"
-  location         : "China"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Duke University"
+  location         : "Durham, NC, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tiWMI1QAAAAJ"
-  email            : "zhouchch@pku.edu.cn"
+  email            : "changchun.zhou@duke.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

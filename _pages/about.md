@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of integrated Circuits, Peking University, China, in Dec. 2023, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). If you are interested in me, please feel free to contact me at any time.
+I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of integrated Circuits, Peking University, China, in Dec. 2023, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). If you are interested in me, please feel free to contact me at any time.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -33,11 +33,9 @@ I received the Ph. D. degree of Microelectronics and Solid-State Electronics in 
 - 12/2023 **Leo KoGuan Scholarship (1/157, ¥20, 000)**, *Peking University*                                                      
 - 12/2023 **Exceptional Award for Academic Innovation**, *Peking University*                                           
 - 12/2023 Merit Student, *Peking University*                                                                           
-- 12/2022 Award for Scientific Research, *Peking University*                                                           
-- 05/2021 Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop*                                    
+- 12/2022 Award for Scientific Research, *Peking University*                                                                         
 - 10/2019 Merit Student, *Peking University*                                                                           
-- 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
-- 05/2016 First Prize in the National College Students Metallography Skills Competition, *Sun Yat-sen University*      
+- 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                  
 - 10/2015 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
 - 10/2015 First Class Scholarship, *Sun Yat-sen University*                                                            
 
@@ -49,7 +47,7 @@ I received the Ph. D. degree of Microelectronics and Solid-State Electronics in 
 
 Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
 
-**<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
+**<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, H. Jiao.
 
 *IEEE International Solid-State Circuits Conference (**<font color=blue> ISSCC </font>**) Dig. Tech. Papers* (Accepted)
 
@@ -64,7 +62,7 @@ Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Mu
 
 **<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
-*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**) (Accepted, IF=4.4, JCR Q2, Chinese Academy of Sciences Q2)*
+*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)
 
 
 <details>
@@ -84,7 +82,7 @@ Point cloud is increasingly used in a variety of applications. Farthest Point Sa
 
 **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
-*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**) (Top in EDA and Processor Design)*
+*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)
 
 
 <details>
@@ -104,7 +102,7 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (**JIOT**) (IF=10.6, Ranking 4/158, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Internet of Things Journal (**JIOT**)
 
 
 <details>
@@ -124,7 +122,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE/ACM Design Automation Conference (**DAC**) (Top in EDA and Processor Design, CCF-A)*
+*IEEE/ACM Design Automation Conference (**DAC**)
 
 
 <details>
@@ -144,7 +142,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**) (IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)
 
 
 <details>
@@ -159,11 +157,11 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
+[SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359/)
 
 Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**) (Under Review, IF=8.4, JCR Q1, Chinese Academy of Sciences Q1 Top)*
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)
 
 
 <details>
