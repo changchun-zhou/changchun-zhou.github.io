@@ -22,8 +22,8 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
-- *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding. GPA: 3.6/4.0, 1/157 in Comprehensive Ranking 2023. 
-- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China. GPA: 3.8/5.0 
+- *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
+- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,7 +62,7 @@ Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Mu
 
 **<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
 
-*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)
+*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)*
 
 
 <details>
@@ -82,7 +82,7 @@ Point cloud is increasingly used in a variety of applications. Farthest Point Sa
 
 **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.
 
-*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)
+*IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)*
 
 
 <details>
@@ -102,7 +102,7 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (**JIOT**)
+*IEEE Internet of Things Journal (**JIOT**)*
 
 
 <details>
@@ -122,7 +122,7 @@ Three-dimensional (3D) understanding or inference has received increasing attent
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE/ACM Design Automation Conference (**DAC**)
+*IEEE/ACM Design Automation Conference (**DAC**)*
 
 
 <details>
@@ -142,7 +142,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
 
 
 <details>
@@ -180,7 +180,7 @@ Many healthcare devices have been widely used for electrocardiogram (ECG) monito
 
 M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
 
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)
+*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
 
 
 <details>
