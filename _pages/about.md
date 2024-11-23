@@ -194,12 +194,39 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 
 # 🍀 Tape Out
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/bit_variable_imc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A bit-variable in-memory computing chip for accelerating transformers at the edge.
+
+On-Going, Project Leader
+
+*Fabricated in TSMC 40-nm technology with an expected area of 1 mm×1 mm*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/nebula_v2_chip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An energy-efficient acceleration chip supporting transformer-based networks.
+
+01/2025, Project Leader
+
+*Fabricated in TSMC 28-nm HPC technology with an expected area of 2.0 mm×3 mm*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point Cloud</div><img src='images/28nm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator.
 
-8/2023, Project Leader
+08/2023, Project Leader
 
 *Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm*
 
@@ -212,9 +239,22 @@ An energy-efficient pipelined and configurable 3D point cloud-based neural netwo
 
 A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
 
-8/2020, Project Leader
+08/2020, Project Leader
 
 *Fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1D-CNN</div><img src='images/1DCNN_Chips.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+1D-CNN accelerators for medical analysis
+
+06/2024, Module Leader
+
+*Fabricated in UMC 55-nm and TSMC 65-nm low-power CMOS technology*
 
 </div>
 </div>
@@ -225,7 +265,7 @@ A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
 
 A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow
 
-6/2022, Module Leader
+06/2022, Module Leader
 
 *Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm*
 
@@ -244,6 +284,8 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 
 </div>
 </div>
+
+
 
 
 # 💻 Skills
