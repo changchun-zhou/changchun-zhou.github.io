@@ -200,7 +200,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 A bit-variable in-memory computing chip for accelerating transformers at the edge.
 
-On-Going, Project Leader
+12/2025 (Expected), Project Leader
 
 *Fabricated in TSMC 40-nm technology with an expected area of 1 mm×1 mm*
 
@@ -213,7 +213,7 @@ On-Going, Project Leader
 
 An energy-efficient acceleration chip supporting transformer-based networks.
 
-01/2025, Project Leader
+01/2025 (Expected), Project Leader
 
 *Fabricated in TSMC 28-nm HPC technology with an expected area of 2.0 mm×3 mm*
 
@@ -252,7 +252,7 @@ A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
 
 1D-CNN accelerators for medical analysis
 
-06/2024, Module Leader
+06/2024, Collaboration
 
 *Fabricated in UMC 55-nm and TSMC 65-nm low-power CMOS technology*
 
@@ -265,7 +265,7 @@ A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
 
 A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow
 
-06/2022, Module Leader
+06/2022, Collaboration
 
 *Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm*
 
@@ -278,7 +278,7 @@ A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dat
 
 A 2.0 TOPS/W CNN accelerator skipping invalid activations
 
-10/2019, Module Leader
+10/2019, Collaboration
 
 *Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm*
 
