@@ -49,7 +49,7 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 
 **<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao.
 
-*IEEE International Solid-State Circuits Conference (**<font color=blue>ISSCC</font>**) Dig. Tech. Papers*
+*IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers*
 
 <details>
 <summary>Abstract</summary>
@@ -257,7 +257,7 @@ A high-level synthesis based chip for CNN/Transformer architectures in general C
 
 A bit-variable in-memory computing chip for accelerating transformers at the edge.
 
-06/2025 (Expected), Project Leader
+06/2025 (Expected), Collaboration
 
 *Fabricated in TSMC 40-nm technology with an expected area of 1 mm×1 mm*
 
