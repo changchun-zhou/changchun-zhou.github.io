@@ -45,11 +45,17 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC 2025</div><img src='images/ISSCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
+[Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/document/10904703)
 
 **<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao.
 
-*IEEE International Solid-State Circuits Conference (**<font color=blue>ISSCC</font>**) Dig. Tech. Papers* (Accepted)
+*IEEE International Solid-State Circuits Conference (**<font color=blue>ISSCC</font>**) Dig. Tech. Papers*
+
+<details>
+<summary>Abstract</summary>
+Three-dimensional (3D) point clouds are increasingly deployed across various emerging fields, such as autonomous driving, robots, drones, and virtual reality (VR) [1]–[6]. Point-based point-cloud neural networks (PNNs) [3]–[6] have demonstrated superior performance in point-cloud analysis, compared to both sparse 3D convolution-based networks [7], [8] and graph-based convolutional neural networks [9], [10]. Due to the high computational complexity, low parallelism, and frequent irregular external memory accesses, deploying PNNs in hardware is a great challenge. PNN hardware accelerators have been developed [11]–[20]. However, three key challenges remain unsolved in these accelerators, as illustrated in Fig. 23.4.1. 1) The inherent farthest point sampling (FPS) features serial computation and suffers from quadratic growth in inference latency with rising point counts. The existing uniform block-wise FPS techniques [13], [21] fail to achieve a well-balanced block segmentation, due to a typically non-uniform point distribution. 2) A large amount of redundant operations exist for both discarded points (DPs) and retained points (RPs) in FPS. These operations exist in the sampling operations of RPs ① as well as grouping ② convolution ③, and aggregation ④ for DPs, introducing unnecessary energy and latency costs. 3) The irregular memory accesses in the aggregation operation cause significant latency penalties. Channel-wise aggregation in [11] relieves irregularity, yet is unsuitable for large-scale point clouds, as the external memory access of features and the neighbor index table (NIT) is quadratically increased due to the iterative loading of features or the NIT.
+
+</details>
 
 </div>
 </div>
@@ -95,14 +101,14 @@ Three-dimensional (3D) point cloud has been employed in a wide range of applicat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIOT 2023</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOT Journal 2023</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding.](https://ieeexplore.ieee.org/abstract/document/10224248/)
 
 **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.
 
-*IEEE Internet of Things Journal (**JIOT**)*
+*IEEE Internet of Things Journal (**IOT Journal**)*
 
 
 <details>
@@ -135,6 +141,47 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBioCAS 2025</div><img src='images/EEG_TBioCAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Energy-Efficient Configurable 1-D CNN-Based Multi-Lead ECG Classification Coprocessor for Wearable Cardiac Monitoring Devices](https://ieeexplore.ieee.org/abstract/document/10844856)
+
+C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang
+
+*IEEE Transactions on Biomedical Circuits and Systems (**TBioCAS**)*
+
+
+<details>
+<summary>Abstract</summary>
+Many electrocardiogram (ECG) processors have been widely used for cardiac monitoring. However, most of them have relatively low energy efficiency, and lack configurability in classification leads number and inference algorithm models. A multi-lead ECG coprocessor is proposed in this paper, which can perform efficient ECG anomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, a method based on zero-crossing slope adaptive threshold comparison is proposed. Also, a one-dimensional convolutional neural network (1-D CNN) based classification engine with reconfigurable processing elements (PEs) is designed, good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the PE chains with register level data reuse strategy. To improve configurability, a single instruction multiple data (SIMD) based central controller is adopted, which facilitates ECG classification with configurable number of leads and updatable inference models. The proposed ECG coprocessor is fabricated using 55 nm CMOS technology, supporting classification with an accuracy of over 98%. The test results indicate that the chip consumes 62.2 nJ at 100 MHz, which is lower than most recent works. The energy efficiency reaches 397.1 GOPS/W, achieving an improvement of over 40% compared to the reported ECG processors using CNN models. The comparison results show that this design has advantages in energy overhead and configurability.
+
+</details>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/ISCAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10557838)
+
+C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang
+
+*IEEE International Symposium on Circuits and Systems (**ISCAS**)*
+
+
+<details>
+<summary>Abstract</summary>
+Many healthcare devices have been widely used for electrocardiogram (ECG) monitoring. However, most of them have relatively low energy efficiency and lack flexibility. A novel ECG coprocessor is proposed in this paper, which can perform efficient ECG nomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, an algorithm based on Hilbert transform and adaptive threshold comparison is proposed. Also, a flexible one-dimensional convolutional neural network (1-D CNN) based classification engine is adopted, which can be configured with instructions to process various network models for ifferent applications. Good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the processing element (PE) array with data reuse strategy. A 1-D CNN for arrhythmia detection is proposed to validate the hardware performance. The proposed ECG coprocessor is implemented using 55 nm CMOS technology, occupying an area of 1.39 mm2. At a clock frequency of 100MHz, the energy efficiency is 215.6 nJ/classification. The comparison results show that this design has advantages in energy overhead and detection performance.
+
+</details>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,24 +201,8 @@ Transformer-based deep learning networks are revolutionizing our society. The co
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/ISCAS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection [[pdf](https://github.com/zhouchch3/changchunzhou/blob/main/docs/ISCAS.pdf)]
-
-C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang
-
-*IEEE International Symposium on Circuits and Systems (**ISCAS**) (Accepted)*
 
 
-<details>
-<summary>Abstract</summary>
-Many healthcare devices have been widely used for electrocardiogram (ECG) monitoring. However, most of them have relatively low energy efficiency and lack flexibility. A novel ECG coprocessor is proposed in this paper, which can perform efficient ECG nomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, an algorithm based on Hilbert transform and adaptive threshold comparison is proposed. Also, a flexible one-dimensional convolutional neural network (1-D CNN) based classification engine is adopted, which can be configured with instructions to process various network models for ifferent applications. Good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the processing element (PE) array with data reuse strategy. A 1-D CNN for arrhythmia detection is proposed to validate the hardware performance. The proposed ECG coprocessor is implemented using 55 nm CMOS technology, occupying an area of 1.39 mm2. At a clock frequency of 100MHz, the energy efficiency is 215.6 nJ/classification. The comparison results show that this design has advantages in energy overhead and detection performance.
-
-</details>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -195,12 +226,38 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 # 🍀 Tape Out
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/DiffusionChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A energy-efficient diffusion chip for real-time and high-resolution images/videos generation at the edge.
+
+12/2025 (Expected), Project Leader
+
+*Fabricated in TSMC 16-nm FinFET technology with an expected area of 2 mm×4 mm*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/HLSChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A high-level synthesis based chip for CNN/Transformer architectures in general CV/NLP applications.
+
+06/2025 (Expected), Collaboration
+
+*Fabricated in TSMC 16-nm FinFET technology with an expected area of 1 mm×1 mm*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/bit_variable_imc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A bit-variable in-memory computing chip for accelerating transformers at the edge.
 
-12/2025 (Expected), Project Leader
+06/2025 (Expected), Project Leader
 
 *Fabricated in TSMC 40-nm technology with an expected area of 1 mm×1 mm*
 
@@ -213,9 +270,9 @@ A bit-variable in-memory computing chip for accelerating transformers at the edg
 
 An energy-efficient acceleration chip supporting transformer-based networks.
 
-01/2025 (Expected), Project Leader
+04/2025 (Expected), Project Leader
 
-*Fabricated in TSMC 28-nm HPC technology with an expected area of 2.0 mm×3 mm*
+*Fabricated in TSMC 28-nm HPC technology with an expected area of 2 mm×3 mm*
 
 </div>
 </div>
