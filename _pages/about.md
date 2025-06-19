@@ -142,6 +142,29 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ECCO_ISCA25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://arxiv.org/abs/2505.06901)
+
+F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen.
+
+*ACM International Symposium on Computer Architecture (**ISCA**)*
+
+
+<details>
+<summary>Abstract</summary>
+Large language models (LLMs) have demonstrated transformative capabilities across diverse artificial intelligence applications, yet their deployment is hindered by substantial memory and computational demands, especially in resource-constrained environments. Quantization techniques have emerged as a critical solution, reducing data precision to enhance memory and computational efficiency. However, existing methods often suffer from high runtime overheads and potential accuracy degradation. To address these challenges, we propose Ecco, an entropy-based cache compression technique tailored for LLMs. Ecco combines group-wise and nonuniform quantization with pre-defined shared k-means patterns and Huffman coding to exploit the inherent entropy characteristics of LLM cache data. Recognizing the inefficiencies of traditional Huffmancoding in terms of parallelism and latency, we introduce a novel parallel Huffman-based decoding process with a multi-stage pipeline design, reducing latency by two orders of magnitude and achieving throughput comparable to GPU L2 caches. Comprehensive evaluations demonstrate that Ecco achieves an up to 2.9× and 1.9× speedup over the state-of-the-art AWQ and SmoothQuant framework, 2.4× over the Olive accelerator, all while increasing memory capacity by nearly 4× and maintaining state-of-the-art LLM accuracy. These results underscore the effectiveness of our entropy-based cache compression in enhancing LLM performance and efficiency, paving the way for more deployable large-scale AI models.
+
+</details>
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/TIM25_2StageEEG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -285,27 +308,16 @@ A energy-efficient diffusion chip for real-time and high-resolution images/video
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/HLSChip.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/TinyDiff.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A high-level synthesis based chip for CNN/Transformer architectures in general CV/NLP applications.
+A bit-variable reconfigurable chip for accelerating transformer-based networks at the edge.
 
-06/2025 (Expected), Collaboration
+06/2025, Collaboration
 
-*Fabricated in TSMC 16-nm FinFET technology with an expected area of 1 mm×1 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/bit_variable_imc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A bit-variable in-memory computing chip for accelerating transformers at the edge.
-
-06/2025 (Expected), Collaboration
-
-*Fabricated in TSMC 40-nm technology with an expected area of 1 mm×1 mm*
+*Fabricated in TSMC 40-nm technology with an expected area of 1 mm×2 mm*
 
 </div>
 </div>
