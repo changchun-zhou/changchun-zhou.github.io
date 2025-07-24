@@ -310,7 +310,7 @@ A energy-efficient diffusion chip for real-time and high-resolution images/video
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/TinyDiff.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/TinyDiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A bit-variable reconfigurable chip for accelerating transformer-based networks at the edge.
