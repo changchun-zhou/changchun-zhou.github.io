@@ -18,23 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). 
+
 🔴 (**<font color=red>I am seeking collaboration in both research and engineering.</font>**) If you are interested in me, please feel free to contact me at any time.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 🧭 Research Tracks
 
-## 🚀 Chip Design for AI Acceleration
+### 🚀 Chip Design for AI Acceleration
 I work on designing customized chips that accelerate mainstream AI algorithms — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud.
 
-## 🌐 Online AI Deployment Systems
+### 🌐 Online AI Deployment Systems
 I also develop online serving systems that enable AI deployment on FPGAs or out customized chip clusters, accessible via web platforms or mobile apps. This involves:
 - Hardware-optimized algorithms
 - AI hardware compilers (e.g., Google MLIR) to map algorithms to hardware instructions
 - Schedulers for efficient task assignment
 
-## ⚡ Impact
+### ⚡ Impact
 - Our goal is to deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed on mainstream AI algorithms.
+![Diagram](../images/AI_Chip_System.png)
+
 
 # 📖 Educations
 - *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
