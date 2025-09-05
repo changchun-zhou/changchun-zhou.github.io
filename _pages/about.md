@@ -36,7 +36,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 
 ### ⚡ Impact
 - Our goal is to deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed on mainstream AI algorithms.
-![Diagram](../images/AI_Chip_System.png)
+<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="60%">
 
 
 # 📖 Educations
