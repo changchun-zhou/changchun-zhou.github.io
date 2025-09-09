@@ -34,11 +34,14 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 - AI hardware compilers (e.g., Google MLIR) to map algorithms to hardware instructions
 - Schedulers for efficient task assignment
 
-### ⚡ Impact
-- Our goal is to deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed on mainstream AI algorithms.
+### ⚡ Impact & Clarification
+- How is the better than existing general system? Running the same open-source AI models, we deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed and accuracy.
 
 <img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="60%">
 
+
+
+<img src="../images/AI_Chip_System_Difference.png" alt="Impact Diagram" width="60%">
 
 # 📖 Educations
 - *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
