@@ -436,14 +436,14 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 - I am an Easy Going and Self-Motivated Person. Feel Free to Reach out Anytime!
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis.
 
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script> -->
-<div style="width:100%; text-align:center;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script>
+<!-- <div style="width:100%; text-align:center;">
   <div style="display:inline-block; transform:scale(0.6); transform-origin:top center;">
     <script type="text/javascript" id="mapmyvisitors"
       src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a">
     </script>
   </div>
-</div>
+</div> -->
 
 
 
