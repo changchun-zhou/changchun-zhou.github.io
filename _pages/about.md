@@ -437,13 +437,14 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis.
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script> -->
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <div style="transform: scale(0.6); transform-origin: top center;">
+<div style="width:100%; text-align:center;">
+  <div style="display:inline-block; transform:scale(0.6); transform-origin:top center;">
     <script type="text/javascript" id="mapmyvisitors"
       src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a">
     </script>
   </div>
 </div>
+
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
