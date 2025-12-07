@@ -60,7 +60,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 
 # 🍀 Chip Gallery
 
-<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="60%">
+<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="75%">
 
 
 # 📝 Publications 
