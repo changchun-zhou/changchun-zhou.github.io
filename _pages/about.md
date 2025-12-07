@@ -37,12 +37,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 ### ⚡ Impact & Clarification
 - How is the better than existing general system? Running the same open-source AI models, we deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed and accuracy.
 
-<img src="../images/Three_Pillars.png" alt="Impact Diagram" width="16.2%"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="33%">
-
-
-
-<img src="../images/AI_Chip_System_Difference.png" alt="Impact Diagram" width="50.3%">
-
+<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="50%">
 
 
 # 📖 Educations
@@ -62,6 +57,10 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 - 10/2016 National Inspirational Scholarship, *Sun Yat-sen University*                                                  
 - 10/2015 National Inspirational Scholarship, *Sun Yat-sen University*                                                 
 - 10/2015 First Class Scholarship, *Sun Yat-sen University*                                                            
+
+# 🍀 Chip Gallery
+
+<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="60%">
 
 
 # 📝 Publications 
@@ -375,7 +374,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </div>
 </div>
 
-
+<!-- 
 # 🍀 Tape Out
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/DiffusionChip.png' alt="sym" width="100%"></div></div>
@@ -481,7 +480,7 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 *Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm*
 
 </div>
-</div>
+</div> -->
 
 
 
