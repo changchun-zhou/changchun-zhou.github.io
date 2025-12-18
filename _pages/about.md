@@ -65,12 +65,32 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2026</div><img src='images/TCAS-I-CVR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A CMOS Voltage Reference Featuring a Tandem Differential Structure With Two-Stage Stacked Diode-Connected MOSFETs Core](https://ieeexplore.ieee.org/document/11301867)
+
+Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#. (**#Corresponding Author**)
+
+*EEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**) (Accepted)*
+
+<details>
+<summary>Abstract</summary>
+In this paper, A CMOS voltage reference (CVR) with two-stage self-biased stacked diode connected MOS transistors (SDMTs) which actively compensates for process, voltage, and temperature (PVT) variations via a tandem differential structure (TDS) is proposed. The SDMTs core biased by new pseudo cascode current mirror guarantees better suppression against supply change and generates two reference voltages. The TDS, composed of two tandem NMOS transistors, serves as an output stage, differentially processing these voltages and compensating the final reference against PVT variations. Thus, the deviation of final reference voltage from PVT change is largely reduced. The proposed CVR is fabricated in a 0.18- μ m CMOS process occupying a total area of 0.0048 mm2 . Measurement results from 7 chips demonstrate that the design can achieve an average temperature coefficient of 67 ppm/° C from −40° C to 140° C without trimming networks. Line sensitivity and power supply rejection ratio are 0.009 %/V with a supply range of 1.3V to 2.5 V and -83 dB at 100 Hz. 1% settling time only takes 0.28ms. The average reference voltage is 294 mV.
+
+</details>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665)
 
-Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, H. Li, and Y. Chen. (**#Corresponding Author**)
+Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo#, H. Li, and Y. Chen. (**#Corresponding Author**)
 
 *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) (Accepted)*
 
