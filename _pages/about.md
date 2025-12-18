@@ -72,7 +72,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 
 Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#. (**#Corresponding Author**)
 
-*EEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**) (Accepted)*
+*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**) (Accepted)*
 
 <details>
 <summary>Abstract</summary>
