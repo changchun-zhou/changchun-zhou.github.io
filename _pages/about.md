@@ -37,7 +37,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 ### ⚡ Impact & Clarification
 - How is the better than existing general system? Running the same open-source AI models, we deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed and accuracy.
 
-<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="50%">
+<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="75%">
 
 
 # 📖 Educations
@@ -60,7 +60,7 @@ I also develop online serving systems that enable AI deployment on FPGAs or out 
 
 # 🍀 Chip Gallery
 
-<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="75%">
+<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="92%">
 
 
 # 📝 Publications 
