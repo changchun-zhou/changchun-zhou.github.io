@@ -25,19 +25,20 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 
 # 🧭 Research Tracks
 
-### 🚀 Chip Design for AI Acceleration
-I work on designing customized chips that accelerate mainstream AI algorithms — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud.
+## I. Chips for AI Acceleration
+I work on designing real, deployable, AI-native heterogeneous chips that efficiently run mainstream AI algorithms — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud. Key focus areas include:
+- Generative model acceleration (e.g., Diffusions and LLMs)
+- 3D/4D point cloud analysis and reconstruction
+- Embodied AI and Robotics (e.g., VLA)
 
-### 🌐 Online AI Deployment Systems
-I also develop online serving systems that enable AI deployment on FPGAs or out customized chip clusters, accessible via web platforms or mobile apps. This involves:
+## II. Systems for AI Deployment
+I also develop end-to-end serving systems that enable AI deployment on FPGAs or out customized chip clusters, accessible via web platforms or mobile apps. This involves:
 - Hardware-optimized algorithms
 - AI hardware compilers (e.g., Google MLIR) to map algorithms to hardware instructions
 - Schedulers for efficient task assignment
+- **Impact & Clarification:** How is the better than existing general system? Running the same open-source AI models, we deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to traditional GPUs, while maintaining the same speed and accuracy.
 
-### ⚡ Impact & Clarification
-- How is the better than existing general system? Running the same open-source AI models, we deliver up to **1000× lower purchase cost** and **100× lower electricity cost** compared to GPUs, while maintaining the same speed and accuracy.
-
-<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="75%">
+<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="80%">
 
 
 # 📖 Educations
