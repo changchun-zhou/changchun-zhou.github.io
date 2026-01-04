@@ -27,7 +27,7 @@ real hardware implementations, informing practical cross-layer insights. You can
 # 🧭 Research Tracks
 
 ## I. Chips for AI Acceleration
-I work on designing real, deployable, AI-native heterogeneous chips that efficiently run mainstream AI algorithms — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud. Key focus areas include:
+I work on designing heterogeneous chips with tape-out validation, targeting practical deployment scenarios for mainstream AI workloads — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud. Key focus areas include:
 - Generative model acceleration (e.g., Diffusions and LLMs)
 - 3D/4D point cloud analysis and reconstruction
 - Embodied AI and Robotics (e.g., VLA)
@@ -37,7 +37,7 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 - Hardware-optimized algorithms
 - AI hardware compilers (e.g., Google MLIR) to map algorithms to hardware instructions
 - Schedulers for efficient task assignment
-- Impact & Clarification: How is the better than existing general system? Running the same open-source AI models, we deliver up to 1000× lower purchase cost and 100× lower electricity cost compared to traditional GPUs, while maintaining the same speed and accuracy.
+- Impact & Clarification: In specific edge-deployment workloads, we deliver up to two–three orders of magnitude cost and energy advantages, compared to GPU-based baselines under comparable constraints.
 
 <img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="80%">
 
@@ -502,14 +502,14 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 
 
 
-# 💻 Skills
+<!-- # 💻 Skills
 - Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Training
 - Tools: Cadence, Vivado, PyTorch, TensorFlow 
 - Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
 
 # 💬 About Me
 - I am an Easy Going and Self-Motivated Person. Feel Free to Reach out Anytime!
-- Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis.
+- Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis. -->
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script>
 <!-- <div style="width:100%; text-align:center;">

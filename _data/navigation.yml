@@ -1,20 +1,26 @@
 # main links links
 main:
 main:
+  - title: "Research Tracks"
+    url: "/#-research-tracks"
+
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-    
+
+  - title: "Chip Gallery"
+    url: "/#-chip-gallery"
+
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Tape Out"
-    url: "/#-tape-out"
+  # - title: "Tape Out"
+  #   url: "/#-tape-out"
     
-  - title: "Skills"
-    url: "/#-skills"
+  # - title: "Skills"
+  #   url: "/#-skills"
 
-  - title: "About Me"
-    url: "/#-about-me"
+  # - title: "About Me"
+  #   url: "/#-about-me"
