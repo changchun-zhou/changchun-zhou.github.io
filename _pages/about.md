@@ -62,6 +62,30 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 
 # 📝 Publications 
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026_IncVGGT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y)
+
+K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen. (**#Corresponding Author**)
+
+*International Conference on Learning Representations (**ICLR**) (Accepted)*
+
+<details>
+<summary>Abstract</summary>
+We present IncVGGT, a training-free incremental variant of VGGT that makes transformer-based 3D reconstruction feasible for long sequences in real-world applications. Vanilla VGGT relies on dense global attention, which causes memory to grow quadratically and requires excessive computation, making it impractical for long-sequence scenarios. Even evolved streaming variants, such as StreamVGGT, still suffer from rapidly growing cache and latency. IncVGGT addresses these challenges from two orthogonal directions: (1) register and fuse overlapping frames into composite views, reducing duplicate tokens, and (2) history-side pruning retains only the top-
+k most relevant/maximum slots together with the most recent one, bounding cache growth. This incremental and memory-efficient design minimizes computation and memory occupation across arbitrarily long sequences. Compared to StreamVGGT, IncVGGT sustains arbitrarily long sequences with large efficiency gains (e.g., on 500-frame sequences, 58.5x fewer operators, 9x lower memory, 25.7x less energy, and 4.9x faster inference) while maintaining comparable accuracy. More importantly, unlike existing baselines that directly run out of memory beyond 300 (VGGT)–500 (StreamVGGT) frames, IncVGGT continues to operate smoothly even on 10k-frame inputs under an 80GB GPU, showing that our design truly scales to ultra-long sequences without hitting memory limits. These results highlight IncVGGT’s potential for deployment in resource-constrained edge devices for long-range 3D scenarios.
+
+</details>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/ISCAS2026_UFP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
