@@ -32,6 +32,13 @@ I work on designing heterogeneous chips with tape-out validation, targeting prac
 - 3D/4D point cloud analysis and reconstruction
 - Embodied AI and Robotics (e.g., VLA)
 
+
+
+<img src="../images/SOC.png" alt="Impact Diagram" width="80%">
+
+
+
+
 ## II. Systems for AI Deployment
 I also develop end-to-end serving systems that enable AI deployment on FPGAs or out customized chip clusters, accessible via web platforms or mobile apps. This involves:
 - Hardware-optimized algorithms
@@ -39,7 +46,11 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 - Schedulers for efficient task assignment
 - Impact & Clarification: In specific edge-deployment workloads, we deliver up to two–three orders of magnitude cost and energy advantages, compared to GPU-based baselines under comparable constraints.
 
+
+
 <img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="80%">
+
+
 
 
 # 📖 Educations
