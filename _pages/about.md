@@ -34,7 +34,7 @@ I work on designing heterogeneous chips with tape-out validation, targeting prac
 
 
 
-<img src="../images/SOC.png" alt="Impact Diagram" width="80%">
+<img src="../images/SOC.png" alt="Impact Diagram" width="70%">
 
 
 
@@ -48,7 +48,7 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 
 
 
-<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="80%">
+<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="70%">
 
 
 
