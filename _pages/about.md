@@ -74,6 +74,24 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC2026_FlashFPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching
+
+Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen. (**#Corresponding Author**)
+
+*IEEE/ACM Design Automation Conference (**DAC**) (Accepted)*
+
+<details>
+<summary>Abstract</summary>
+Point-based Neural Networks (PNNs) have become a key approach for point cloud processing. However, a core operation in these models, Farthest Point Sampling (FPS), often introduces significant inference latency, especially for large-scale processing. Despite existing CUDA- and hardware-level optimizations, FPS remains a major bottleneck due to exhaustive computations across multiple network layers in PNNs, which hinders scalability.Through systematic analysis, we identify three substantial redundancies in FPS, including unnecessary full-cloud computations, redundant late-stage iterations, and predictable inter-layer outputs that make later FPS computations avoidable. To address these, we propose FlashFPS, a hardware-agnostic, plug-and-play framework for FPS acceleration, composed of FPS-Prune and FPS-Cache. FPS-Prune introduces candidate pruning and iteration pruning to reduce redundant computations in FPS while preserving sampling quality, and FPS-Cache eliminates layer-wise redundancy via cache-and-reuse. Integrated into existing CUDA libraries and state-of-the-art PNN accelerators, FlashFPS achieves 5.16× speedup over the standard CUDA baseline on GPU and 2.69× on PNN accelerators, with negligible accuracy loss, enabling efficient and scalable PNN inference.
+
+</details>
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026_IncVGGT.png' alt="sym" width="100%"></div></div>
