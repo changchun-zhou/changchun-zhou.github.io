@@ -142,7 +142,7 @@ Nonlinear functions are fundamental components in widely applied AI algorithms. 
 
 Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#. (**#Corresponding Author**)
 
-*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**) (Accepted)*
+*IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)*
 
 <details>
 <summary>Abstract</summary>
@@ -158,11 +158,11 @@ In this paper, A CMOS voltage reference (CVR) with two-stage self-biased stacked
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665)
+[FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://ieeexplore.ieee.org/document/11408589)
 
 Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo#, H. Li, and Y. Chen. (**#Corresponding Author**)
 
-*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) (Accepted)*
+*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
 
 <details>
 <summary>Abstract</summary>
@@ -274,15 +274,34 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2026</div><img src='images/ISCA2026_EVA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture
+
+B. Duan, T. C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
+
+*ACM International Symposium on Computer Architecture (**ISCA**) (Accepted)*
+
+<details>
+<summary>Abstract</summary>
+Large Language Models (LLMs) have achieved impressive performance across diverse domains but remain inefficient during the auto-regressive decoding phase. Unlike the prefill stage, which employs compute-bound GEMM operations, decoding executes a sequence of small GEMV computations that are memory-bound and underutilize modern accelerators. Weight-only vector quantization (VQ) has emerged as an effective compression technique that clusters model weights into a shared codebook and replaces the original weight matrix with lowprecision indices, enabling 2-bit-level weight compression. While this approach substantially reduces model size and memory bandwidth, it still suffers from two critical inefficiencies: the low utilization of GEMV computation and frequent memory conflicts during codebook lookups. This paper presents EVA, an efficient vector-quantizationbased architecture that addresses both computational and memory bottlenecks in LLM decoding. EVA builds on a simple yet effective insight that combines input–codebook computation with conflict-free memory access. Instead of reconstructing quantized weights from indices, EVA directly performs dot products between input vectors and the weight codebook, transforming LLM decoding from GEMV to GEMM computation. It then performs structured lookups from an intermediate output buffer, eliminating memory bank conflicts. We further design a hardware–software co-optimized architecture specialized for LLM decoding while remaining compatible with conventional prefill execution. Evaluations show that EVA achieves up to 11.18× speedup and 7.17× higher energy efficiency compared with the SOTA lookup-based architecture, while preserving arithmetic precision after vector quantization..
+
+</details>
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_NP-CAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture
+[NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550)
 
 B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li
 
-*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) (Accepted)*
+*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
 
 <details>
 <summary>Abstract</summary>
@@ -297,11 +316,11 @@ The rapid advancement in genomic sequencing technologies has resulted in an expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_Focus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models
+[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://ieeexplore.ieee.org/document/11408525)
 
 C. Wei, C. Guo, J. Zhang, H. Shan, Y. Xu, Z. Zhang, Y. Liu, Q. Wang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
 
-*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) (Accepted)*
+*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
 
 <details>
 <summary>Abstract</summary>
@@ -317,7 +336,7 @@ Vision-Language Models (VLMs) have demonstrated strong performance on tasks such
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ECCO_ISCA25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://arxiv.org/abs/2505.06901)
+[Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://dl.acm.org/doi/10.1145/3695053.3731024)
 
 F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen.
 
@@ -340,7 +359,7 @@ Large language models (LLMs) have demonstrated transformative capabilities acros
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/TIM25_2StageEEG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring
+[A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring](https://ieeexplore.ieee.org/document/10950403/)
 
 S. Qiu, W. Wang, **<u>C. Zhou</u>**, X. Song, J. Yang, and H. Jiao
 
@@ -362,7 +381,7 @@ The monitoring of epilepsy patients in non-hospital environment is highly desira
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symp. VLSI 2025</div><img src='images/VLSI25_PANDA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring
+[PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11075036/)
 
 S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao
 
