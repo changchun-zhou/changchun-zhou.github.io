@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
-real hardware implementations, informing practical cross-layer insights. You can find more information through my [CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf). 
+real hardware implementations, informing practical cross-layer insights.
 
 **I am seeking collaboration in both research and engineering.** If you are interested in me, please feel free to contact me at any time.
 
