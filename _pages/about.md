@@ -279,7 +279,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture
 
-B. Duan, T. C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
+B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
 
 *ACM International Symposium on Computer Architecture (**ISCA**) (Accepted)*
 
