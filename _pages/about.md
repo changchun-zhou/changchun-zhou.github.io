@@ -26,29 +26,9 @@ real hardware implementations, informing practical cross-layer insights.
 
 # 🧭 Research Tracks
 
-## I. Chips for AI Acceleration
-I work on designing heterogeneous chips with tape-out validation, targeting practical deployment scenarios for mainstream AI workloads — including Diffusion models, Transformers, LLaMA, CNNs — for analysis and context generation for text, image, video, and point cloud. Key focus areas include:
-- Generative model acceleration (e.g., Diffusions and LLMs)
-- 3D/4D point cloud analysis and reconstruction
-- Embodied AI and Robotics (e.g., VLA)
+**I. Chips for AI Acceleration** — heterogeneous, tape-out-validated accelerators for mainstream AI workloads (LLMs, diffusion, Transformers, CNNs; for text, image, video, and point cloud). Focus areas: generative-model acceleration · 3D/4D point-cloud analysis & reconstruction · embodied AI and robotics (VLA).
 
-
-
-<img src="../images/SOC.png" alt="Impact Diagram" width="70%">
-
-
-
-
-## II. Systems for AI Deployment
-I also develop end-to-end serving systems that enable AI deployment on FPGAs or out customized chip clusters, accessible via web platforms or mobile apps. This involves:
-- Hardware-optimized algorithms
-- AI hardware compilers (e.g., Google MLIR) to map algorithms to hardware instructions
-- Schedulers for efficient task assignment
-- Impact & Clarification: In specific edge-deployment workloads, we deliver up to two–three orders of magnitude cost and energy advantages, compared to GPU-based baselines under comparable constraints.
-
-
-
-<img src="../images/AI_Chip_System.png" alt="Impact Diagram" width="70%">
+**II. Systems for AI Deployment** — end-to-end serving systems that run AI on customized chip clusters (or FPGAs), accessible via web platforms and mobile apps: hardware-aware algorithms · AI compilers (e.g., MLIR) · schedulers — delivering up to two–three orders-of-magnitude cost and energy advantages over GPU baselines in edge workloads.
 
 
 
@@ -66,9 +46,9 @@ I also develop end-to-end serving systems that enable AI deployment on FPGAs or 
 - 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
 - 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
 
-# 🍀 Chip Gallery
+# 🍀 Chip Gallery & Test Platforms
 
-<img src="../images/Chip_Gallery.png" alt="Chip Gallery" width="92%">
+<img src="../images/chips_platform.jpg" alt="Chip Gallery and Test Platforms" width="92%">
 
 
 # 📝 Publications 
