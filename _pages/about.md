@@ -24,7 +24,7 @@ real hardware implementations, informing practical cross-layer insights.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
-# 🧭 Research Tracks
+# 🧭 Research Tracks {#research-tracks}
 
 **I. Chips for AI Acceleration** — heterogeneous, tape-out-validated accelerators for mainstream AI workloads (LLMs, diffusion, Transformers, CNNs; for text, image, video, and point cloud). Focus areas: generative-model acceleration · 3D/4D point-cloud analysis & reconstruction · embodied AI and robotics (VLA).
 
@@ -33,12 +33,12 @@ real hardware implementations, informing practical cross-layer insights.
 
 
 
-# 🍀 Chip Gallery & Test Platforms
+# 🍀 Chip Gallery & Test Platforms {#chip-gallery}
 
 <img src="images/chips_platform.jpg" alt="Chip Gallery and Test Platforms" width="92%">
 
 
-# 📝 Selected Publications (First-Author / Corresponding)
+# 📝 Selected Publications (First-Author / Corresponding) {#publications}
 
 *Lead-author work across chips, architectures, and algorithms.* 
 
@@ -243,7 +243,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 </div>
 
 
-# 📚 Collaborative Publications
+# 📚 Collaborative Publications {#collaborative}
 
 *Co-authored work from collaborative chip and system projects.*
 
@@ -457,7 +457,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </div>
 </div>
 
-# 📖 Education
+# 📖 Education {#education}
 - *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
 - *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
 
@@ -465,7 +465,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors}
 - 12/2023 Leo KoGuan Scholarship (1/157, ¥20,000), *Peking University*                                                      
 - 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
 - 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
