@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
+I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of Integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
 real hardware implementations, informing practical cross-layer insights.
 
 **I am seeking collaboration in both research and engineering.** If you are interested in me, please feel free to contact me at any time.
@@ -33,25 +33,14 @@ real hardware implementations, informing practical cross-layer insights.
 
 
 
-# 📖 Educations
-- *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
-- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
-
-<!--# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-# 🎖 Honors and Awards
-- 12/2023 Leo KoGuan Scholarship (1/157, ¥20, 000), *Peking University*                                                      
-- 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
-- 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
-
 # 🍀 Chip Gallery & Test Platforms
 
-<img src="../images/chips_platform.jpg" alt="Chip Gallery and Test Platforms" width="92%">
+<img src="images/chips_platform.jpg" alt="Chip Gallery and Test Platforms" width="92%">
 
 
-# 📝 Publications 
+# 📝 Selected Publications (First-Author / Corresponding)
+
+*Lead-author work across chips, architectures, and algorithms.* 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC2026_FlashFPS.png' alt="sym" width="100%"></div></div>
@@ -252,6 +241,11 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 </div>
 </div>
+
+
+# 📚 Collaborative Publications
+
+*Co-authored work from collaborative chip and system projects.*
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2026</div><img src='images/ISCA2026_EVA.png' alt="sym" width="100%"></div></div>
@@ -462,6 +456,19 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 </div>
 </div>
+
+# 📖 Education
+- *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
+- *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
+
+<!--# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+# 🎖 Honors and Awards
+- 12/2023 Leo KoGuan Scholarship (1/157, ¥20,000), *Peking University*                                                      
+- 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
+- 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
 
 <!-- 
 # 🍀 Tape Out
