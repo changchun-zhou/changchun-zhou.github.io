@@ -307,6 +307,26 @@ Vision-Language Models (VLMs) have demonstrated strong performance on tasks such
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSSC 2026</div><img src='images/VLSI25_PANDA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PANDA: A Reconfigurable Seizure Prediction and Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11570998/)
+
+S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao
+
+*IEEE Journal of Solid-State Circuits (**JSSC**)*
+
+<details>
+<summary>Abstract</summary>
+For effective healthcare management of epilepsy patients in a non-hospital environment, continuous monitoring of EEG signals is crucial, where wearable intelligent devices are essential. The existing seizure monitoring devices, however, cannot achieve high sensitivity, a short detection latency, a low false alarm rate (FAR), as well as ultra-low-power computing simultaneously. These devices also struggle to keep pace with the rapid iteration of seizure monitoring algorithms. In this article, PANDA, a reconfigurable seizure Prediction ANd Detection neural network Accelerator, is proposed. A lightweight, two-stage seizure monitoring framework with temporal neural network splitting (TNNS) is deployed on PANDA, which significantly reduces the amount of computations while maintaining high classification performance. An input channel first-output stationary (IFOS) dataflow, a zero activation skipping (ZAS) scheme, and orthogonal data reuse technique are employed to enhance the computation efficiency. A weight cache with statistical information (WCSI) is also proposed to minimize weight memory access. Furthermore, PANDA employs a custom instruction set, enabling the flexible deployment of various neural networks. PANDA is fabricated using a 65-nm CMOS technology and evaluated on two open-source datasets. For the CHB-MIT scalp EEG dataset, PANDA achieves 99.0% sensitivity, 0.47/h FAR, and 3.49 s detection latency. For the SWEC-ETHZ iEEG dataset, PANDA achieves a 98.2% sensitivity, 0.60/h FAR, and 4.61 s detection latency. Compared with the state-of-the-art designs, PANDA enhances energy efficiency by up to 5.49× while maintaining competitive classification performance, providing a reconfigurable and energy-efficient solution for wearable epilepsy healthcare systems.
+
+</details>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ECCO_ISCA25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -388,6 +408,44 @@ C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang
 <details>
 <summary>Abstract</summary>
 Many electrocardiogram (ECG) processors have been widely used for cardiac monitoring. However, most of them have relatively low energy efficiency, and lack configurability in classification leads number and inference algorithm models. A multi-lead ECG coprocessor is proposed in this paper, which can perform efficient ECG anomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, a method based on zero-crossing slope adaptive threshold comparison is proposed. Also, a one-dimensional convolutional neural network (1-D CNN) based classification engine with reconfigurable processing elements (PEs) is designed, good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the PE chains with register level data reuse strategy. To improve configurability, a single instruction multiple data (SIMD) based central controller is adopted, which facilitates ECG classification with configurable number of leads and updatable inference models. The proposed ECG coprocessor is fabricated using 55 nm CMOS technology, supporting classification with an accuracy of over 98%. The test results indicate that the chip consumes 62.2 nJ at 100 MHz, which is lower than most recent works. The energy efficiency reaches 397.1 GOPS/W, achieving an improvement of over 40% compared to the reported ECG processors using CNN models. The comparison results show that this design has advantages in energy overhead and configurability.
+
+</details>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/BSPC25_3DCNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic epileptic seizure detection with an ultra lightweight 3D-CNN model](https://www.sciencedirect.com/science/article/pii/S1746809425007712)
+
+C. Xie, S. Qiu, **<u>C. Zhou</u>**, X. Song, J. Yang, J. Huang, W. Wang, and H. Jiao
+
+*Biomedical Signal Processing and Control (**BSPC**)*
+
+<details>
+<summary>Abstract</summary>
+Health monitoring devices can provide real-time early warning information for epilepsy patients, where automatic epileptic seizure detection is essential. Conventional machine learning methods for automatic seizure detection are based on manual feature engineering, which relies on the experience of experts. Alternatively, deep learning models have been employed to automatically perform feature extraction and seizure detection, however, typically at the cost of high computational complexity. In this paper, we propose an ultra-lightweight three-dimensional convolutional neural network (3D-CNN) for automatic seizure detection. A temporal-spatial separable 3D convolution is proposed, in which the 3D convolution is decomposed into one-dimensional (1D) convolution and two-dimensional (2D) convolution to reduce parameters and calculations. Depth-wise separable convolution and global average pooling are employed to compress the proposed model. A post-processing strategy combining delayed alarm and exponential moving average (EMA), is proposed to further reduce the false alarm rate of the proposed model. Evaluated with the CHB-MIT Scalp EEG database, the proposed ultra lightweight 3D-CNN model achieves a seizure detection rate of 99.24 %, an average detection delay of 4.97 s, and an average false alarm rate of 0.53/h with 6.54 k parameters and 2.39 M MACs, which are competitive compared to the state of the art. The proposed ultra lightweight 3D-CNN model therefore provides an attractive option for wearable epileptic seizure detection in non-hospital environment.
+
+</details>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arXiv25_NeuralSymbolicHW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067)
+
+H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>**, Y. Zhu, and J. Hao
+
+*arXiv preprint arXiv:2511.06067*
+
+<details>
+<summary>Abstract</summary>
+The reproduction of hardware architectures from academic papers remains a significant challenge due to the lack of publicly available source code and the complexity of hardware description languages (HDLs). To this end, we propose ArchCraft, a Framework that converts abstract architectural descriptions from academic papers into synthesizable Verilog projects with register-transfer level (RTL) verification. ArchCraft introduces a structured workflow, which uses formal graphs to capture the Architectural Blueprint and symbols to define the Functional Specification, translating unstructured academic papers into verifiable, hardware-aware designs. The framework then generates RTL and testbench (TB) code decoupled via these symbols to facilitate verification and debugging, ultimately reporting the circuit's Power, Area, and Performance (PPA). Moreover, we propose the first benchmark, ArchSynthBench, for synthesizing hardware from architectural descriptions, with a complete set of evaluation indicators, 50 project-level circuits, and around 600 circuit blocks. We systematically assess ArchCraft on ArchSynthBench, where the experiment results demonstrate the superiority of our proposed method, surpassing direct generation methods and the VerilogCoder framework in both paper understanding and code completion. Furthermore, evaluation and physical implementation of the generated executable RTL code show that these implementations meet all timing constraints without violations, and their performance metrics are consistent with those reported in the original papers.
 
 </details>
 

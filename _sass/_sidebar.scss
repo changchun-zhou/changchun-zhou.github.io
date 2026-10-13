@@ -176,6 +176,11 @@
 }
 
 .author__urls {
+
+  // unify all sidebar icons to the text gray (Leon 2026-10-12)
+  .fa-fw {
+    color: inherit;
+  }
   display: none;
   position: absolute;
   right: 0;
@@ -254,6 +259,11 @@
 }
 
 .author__urls_sm{
+
+  // unify all sidebar icons to the text gray (Leon 2026-10-12)
+  .fa-fw {
+    color: inherit;
+  }
   padding: .25em;
   font-size: 1.75em;
   display: block;
