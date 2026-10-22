@@ -163,6 +163,25 @@ Three-dimensional (3D) point clouds are increasingly deployed across various eme
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arXiv25_NeuralSymbolicHW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067)
+
+H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>#**, Y. Zhu, and J. Hao. (**#Corresponding Author**)
+
+*arXiv preprint arXiv:2511.06067*
+
+<details>
+<summary>Abstract</summary>
+The reproduction of hardware architectures from academic papers remains a significant challenge due to the lack of publicly available source code and the complexity of hardware description languages (HDLs). To this end, we propose ArchCraft, a Framework that converts abstract architectural descriptions from academic papers into synthesizable Verilog projects with register-transfer level (RTL) verification. ArchCraft introduces a structured workflow, which uses formal graphs to capture the Architectural Blueprint and symbols to define the Functional Specification, translating unstructured academic papers into verifiable, hardware-aware designs. The framework then generates RTL and testbench (TB) code decoupled via these symbols to facilitate verification and debugging, ultimately reporting the circuit's Power, Area, and Performance (PPA). Moreover, we propose the first benchmark, ArchSynthBench, for synthesizing hardware from architectural descriptions, with a complete set of evaluation indicators, 50 project-level circuits, and around 600 circuit blocks. We systematically assess ArchCraft on ArchSynthBench, where the experiment results demonstrate the superiority of our proposed method, surpassing direct generation methods and the VerilogCoder framework in both paper understanding and code completion. Furthermore, evaluation and physical implementation of the generated executable RTL code show that these implementations meet all timing constraints without violations, and their performance metrics are consistent with those reported in the original papers.
+
+</details>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2024</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -434,25 +453,6 @@ Health monitoring devices can provide real-time early warning information for ep
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arXiv25_NeuralSymbolicHW.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067)
-
-H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>**, Y. Zhu, and J. Hao
-
-*arXiv preprint arXiv:2511.06067*
-
-<details>
-<summary>Abstract</summary>
-The reproduction of hardware architectures from academic papers remains a significant challenge due to the lack of publicly available source code and the complexity of hardware description languages (HDLs). To this end, we propose ArchCraft, a Framework that converts abstract architectural descriptions from academic papers into synthesizable Verilog projects with register-transfer level (RTL) verification. ArchCraft introduces a structured workflow, which uses formal graphs to capture the Architectural Blueprint and symbols to define the Functional Specification, translating unstructured academic papers into verifiable, hardware-aware designs. The framework then generates RTL and testbench (TB) code decoupled via these symbols to facilitate verification and debugging, ultimately reporting the circuit's Power, Area, and Performance (PPA). Moreover, we propose the first benchmark, ArchSynthBench, for synthesizing hardware from architectural descriptions, with a complete set of evaluation indicators, 50 project-level circuits, and around 600 circuit blocks. We systematically assess ArchCraft on ArchSynthBench, where the experiment results demonstrate the superiority of our proposed method, surpassing direct generation methods and the VerilogCoder framework in both paper understanding and code completion. Furthermore, evaluation and physical implementation of the generated executable RTL code show that these implementations meet all timing constraints without violations, and their performance metrics are consistent with those reported in the original papers.
-
-</details>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/ISCAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -513,6 +513,34 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </details>
 
 </div>
+</div>
+
+# 👥 Research Mentoring {#mentoring}
+Students I have mentored (in order of joining):
+
+<div style="columns: 2 300px; column-gap: 2em;" markdown="1">
+
+- **Zhenhua Xu** (Master) — Efficient ML
+- **Yibo Huang** (Undergrad) — IC Design
+- **Chongxiang Zhao** (Undergrad) — IC Design
+- **Yuntian Liu** (Master) — HW-SW Co-design
+- **Fengqi Yu** (Master) — IC Design
+- **Ziyi Guo** (Master) — IC Design
+- **Yunyang Lu** (Master) — Architecture & IC Design
+- **Yiming Zhou** (Master) — IC Design
+- **Xiaoyu Zheng** (Master) — IC Design
+- **Zhouzhuo Guo** (Undergrad) — IC Design
+- **Keyu Fang** (Ph.D.) — Efficient ML
+- **Vito Wang** (Undergrad) — IC Design
+- **Endong Dai** (Master) — IC Design
+- **Tai Yu** (Ph.D.) — IC Design
+- **Junzhao Huang** (Master) — Efficient ML
+- **Yueyang Zhong** (Undergrad) — Efficient ML
+- **Haotian Chen** (Master) — IC Design
+- **Binglin Cheng** (Master) — IC Design
+- **Ziqian Gao** (Master) — Systems
+- **Kaiwen Zhang** (Master) — IC Design
+
 </div>
 
 # 📖 Education {#education}

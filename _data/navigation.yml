@@ -12,6 +12,9 @@ main:
   - title: "Collaborative"
     url: "/#collaborative"
 
+  - title: "Mentoring"
+    url: "/#mentoring"
+
   - title: "Education"
     url: "/#education"
 
