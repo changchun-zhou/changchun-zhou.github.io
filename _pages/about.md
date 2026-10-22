@@ -559,7 +559,10 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 # 👔 Academic Service {#service}
 - **Technical Program Committee:** HPCA 2027
 - **Conference Reviewer:** ICLR 2027
-- **Journal Reviewer:** IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**), IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**), IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**)
+- **Journal Reviewer:**
+  - IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**)
+  - IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)
+  - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**)
 
 <!-- 
 # 🍀 Tape Out
