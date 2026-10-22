@@ -527,7 +527,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - **Chongxiang Zhao** (Undergrad) — IC Design
 - **Yuntian Liu** (Master) — HW-SW Co-design
 - **Fengqi Yu** (Master) — IC Design
-- **Ziyi Guo** (Ph.D.) — IC Design
+- **[Ziyi Guo](https://elana-ehsan.github.io/)** (Ph.D.) — IC Design
 - **[Yunyang Lu](https://wihxlyy.github.io/)** (Master) — Arch & IC Design
 - **Yiming Zhou** (Master) — IC Design
 - **Zhouzhuo Guo** (Undergrad) — IC Design
