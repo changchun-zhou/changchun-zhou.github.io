@@ -515,8 +515,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 </div>
 </div>
 
-# 👥 Research Mentoring {#mentoring}
-Students I have mentored (in order of joining):
+# 👥 Research Mentees {#mentoring}
 
 <div style="columns: 2 300px; column-gap: 2em;" markdown="1">
 
