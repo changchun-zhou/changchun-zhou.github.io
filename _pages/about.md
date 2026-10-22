@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph. D. degree of Microelectronics and Solid-State Electronics in the School of Integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.  My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
+I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolutionary Intelligence ([DCEI](https://cei.pratt.duke.edu/)), supervised by [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) and [Prof. Hai "Helen" Li](https://cei.pratt.duke.edu/people/hai-helen-li). I received the Ph.D. degree of Microelectronics and Solid-State Electronics in the School of Integrated Circuits, Peking University, China, in Jan. 2024, supervised by [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/info/1045/2719.htm) at [PKU-VLSI Lab](http://www.PKU-VLSI.com). I received the Bachelor degree of Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in Jul. 2018.
+
+My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
 real hardware implementations, informing practical cross-layer insights.
 
-**I am seeking collaboration in both research and engineering.** If you are interested in me, please feel free to contact me at any time.
+**I am seeking collaboration in both research and engineering.** If you are interested in collaborating, please feel free to contact me.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -546,14 +548,18 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
 - *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
 
-<!--# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--# 🔥 News {#news}
+- *YYYY.MM*: &nbsp;🎉 ... -->
 
 # 🎖 Honors and Awards {#honors}
 - 12/2023 Leo KoGuan Scholarship (1/157, ¥20,000), *Peking University*                                                      
 - 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
 - 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
+
+# 👔 Academic Service {#service}
+- **Technical Program Committee:** HPCA 2027
+- **Conference Reviewer:** ICLR 2027
+- **Journal Reviewer:** IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**), IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**), IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**)
 
 <!-- 
 # 🍀 Tape Out
@@ -675,14 +681,9 @@ A 2.0 TOPS/W CNN accelerator skipping invalid activations
 - I am an Easy Going and Self-Motivated Person. Feel Free to Reach out Anytime!
 - Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis. -->
 
+<div style="width:67%; margin:0 auto;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script>
-<!-- <div style="width:100%; text-align:center;">
-  <div style="display:inline-block; transform:scale(0.6); transform-origin:top center;">
-    <script type="text/javascript" id="mapmyvisitors"
-      src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a">
-    </script>
-  </div>
-</div> -->
+</div>
 
 
 
