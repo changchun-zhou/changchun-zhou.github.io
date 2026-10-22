@@ -536,7 +536,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - **Endong Dai** (Master) — IC Design
 - **Tai Yu** (Ph.D.) — IC Design
 - **Junzhao Huang** (Master) — Efficient ML
-- **Yueyang Zhong** (Undergrad) — Efficient ML
+- **[Yueyang Zhong](https://and-landy.github.io/)** (Undergrad) — Efficient ML
 - **Haotian Chen** (Master) — IC Design
 - **Binglin Cheng** (Master) — IC Design
 - **Ziqian Gao** (Master) — Systems
