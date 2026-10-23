@@ -533,7 +533,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - **[Zhouzhuo Guo](https://zhouzhuoguo.github.io/)** (Ph.D.) — IC Design
 - **Keyu Fang** (Ph.D.) — Efficient ML
 - **Vito Wang** (Undergrad) — IC Design
-- **Endong Dai** (Master) — IC Design
+- **[Endong Dai](https://endong-dai.github.io/)** (Master) — IC Design
 - **Tai Yu** (Ph.D.) — IC Design
 - **Junzhao Huang** (Master) — Efficient ML
 - **[Yueyang Zhong](https://and-landy.github.io/)** (Undergrad) — Systems
