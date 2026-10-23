@@ -557,8 +557,11 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
 
 # 👔 Academic Service {#service}
-- **Technical Program Committee:** HPCA 2027
-- **Conference Reviewer:** ICLR 2027
+- **Technical Program Committee:**
+  - IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) 2027
+  - Design Automation Conference (**DAC**) 2026
+- **Conference Reviewer:**
+  - International Conference on Learning Representations (**ICLR**) 2027
 - **Journal Reviewer:**
   - IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**)
   - IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)
