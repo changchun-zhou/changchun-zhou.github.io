@@ -567,6 +567,8 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
   - IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**)
   - IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)
   - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (**JETCAS**)
+  - IEEE Internet of Things Journal (**IoT-J**)
+  - IEEE Journal of Biomedical and Health Informatics (**JBHI**)
 
 <!-- 
 # 🍀 Tape Out
