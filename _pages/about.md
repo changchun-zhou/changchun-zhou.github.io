@@ -541,6 +541,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - **Binglin Cheng** (Master) — IC Design
 - **Ziqian Gao** (Master) — Systems
 - **Kaiwen Tang** (Master) — IC Design
+- **Chengyuan Zhang** (Undergrad) — IC Design
 
 </div>
 
