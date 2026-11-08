@@ -33,15 +33,17 @@ real hardware implementations, informing practical cross-layer insights.
 
 **II. Systems for AI Deployment** — end-to-end serving systems that run AI on customized chip clusters (or FPGAs), accessible via web platforms and mobile apps: hardware-aware algorithms · AI compilers (e.g., MLIR) · schedulers — delivering up to two–three orders-of-magnitude cost and energy advantages over GPU baselines in edge workloads.
 
+**III. AI for Chip Design** — silicon-validated, agent-driven design flows that carry a chip from idea to GDS, through tape-out, to measured silicon and live demos, in a closed loop, now applied in our ongoing tape-outs.
 
 
 
-# 🍀 Chip Gallery & Test Platforms {#chip-gallery}
+
+# 🍀 Chip Gallery {#chip-gallery}
 
 <img src="images/chips_platform.jpg?v=20261021" alt="Chip Gallery and Test Platforms" width="92%">
 
 
-# 📝 Selected Publications (First-Author / Corresponding) {#publications}
+# 📝 Selected Publications {#publications}
 
 *Lead-author work across chips, architectures, and algorithms.* 
 
