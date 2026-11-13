@@ -565,6 +565,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
   - Design Automation Conference (**DAC**) 2026
 - **Conference Reviewer:**
   - International Conference on Learning Representations (**ICLR**) 2027
+  - IEEE International Symposium on Circuits and Systems (**ISCAS**) 2027
   - IEEE International Symposium on Circuits and Systems (**ISCAS**) 2026
 - **Journal Reviewer:**
   - IEEE Transactions on Very Large Scale Integration Systems (**TVLSI**)
