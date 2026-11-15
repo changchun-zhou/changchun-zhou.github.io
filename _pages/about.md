@@ -564,6 +564,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
   - IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) 2027
   - Design Automation Conference (**DAC**) 2026
 - **Conference Reviewer:**
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2027
   - International Conference on Learning Representations (**ICLR**) 2027
   - IEEE International Symposium on Circuits and Systems (**ISCAS**) 2027
   - IEEE International Symposium on Circuits and Systems (**ISCAS**) 2026
