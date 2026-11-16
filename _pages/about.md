@@ -561,6 +561,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 
 # 👔 Academic Service {#service}
 - **Technical Program Committee:**
+  - ACM/IEEE International Symposium on Computer Architecture (**ISCA**) 2027
   - IEEE International Symposium on High-Performance Computer Architecture (**HPCA**) 2027
   - Design Automation Conference (**DAC**) 2026
 - **Conference Reviewer:**
