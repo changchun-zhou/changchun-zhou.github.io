@@ -48,7 +48,7 @@ real hardware implementations, informing practical cross-layer insights.
 *Lead-author work across chips, architectures, and algorithms.* 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027 · Highlight</div><img src='images/ISSCC2027_Fornax.jpg' alt="Fornax ISSCC 2027" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027</div><img src='images/ISSCC2027_Fornax.jpg' alt="Fornax ISSCC 2027" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane Folding for 8K Edge Image Generation
@@ -62,7 +62,7 @@ Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane F
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027 · Highlight</div><img src='images/ISSCC2027_LYRA.jpg' alt="LYRA ISSCC 2027" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027</div><img src='images/ISSCC2027_LYRA.jpg' alt="LYRA ISSCC 2027" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference
@@ -177,7 +177,7 @@ Three-dimensional (3D) point clouds are increasingly used in applications such a
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC 2025</div><img src='images/ISSCC_Nebula.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2025</div><img src='images/ISSCC_Nebula.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/document/10904703)
