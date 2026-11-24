@@ -6,4 +6,4 @@
 - harness 产物（截图证据、脚本、QA）进 `_harness/`；旧图标等归档在 `backup/`。
 - `*-LAPTOP-790P2OGK.*` 是 OneDrive 冲突副本，未跟踪，勿提交。
 - **push = 公开发布**：commit 可直接做，push 前需 Leon 确认（除非本轮已明确授权）。
-- 禁区：ISSCC27 Fornax/LYRA 在 2026-12-01 Advance Program 前不得上主页。
+- ISSCC27 禁令已解除（AP 于 2026-11-23 发布）：Fornax(34.6)/LYRA(34.2) 两篇均为 Session 34 Highlight（证据 `_harness/ISSCC27_Session34_Highlights_*.png`） 已上主页；缩略图由 `_harness/build_isscc27_cards.py <AP.pdf>` 从 AP 裁生成。die photo/S1/highlight 外数字仍等 2027-02-17 报告后再放。

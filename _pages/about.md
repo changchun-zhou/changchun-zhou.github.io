@@ -48,6 +48,34 @@ real hardware implementations, informing practical cross-layer insights.
 *Lead-author work across chips, architectures, and algorithms.* 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027 · Highlight</div><img src='images/ISSCC2027_Fornax.jpg' alt="Fornax ISSCC 2027" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane Folding for 8K Edge Image Generation
+
+**<u>C. Zhou</u>**, Z. Guo, Z. Xu, E. Dai, Y. Zhong, G. Zhou, J. Zhang, J. Ku, H. Li, and Y. Chen.
+
+*IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.6 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027 · Highlight</div><img src='images/ISSCC2027_LYRA.jpg' alt="LYRA ISSCC 2027" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference
+
+**<u>C. Zhou</u>**\*, Y. Ma\*, W. Luo, X. Wang, Z. Li, Z. Guo, Y. Jiang, Z. Guo, Z. Gao, Y. Lin, H. He, A. Li, Y. Fu, S. Qiu, C. Zhang, Y. He, G. Li, Y. Yang, and H. Jiao. (**\*Equal Contribution**)
+
+*IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.2 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC2026_FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
