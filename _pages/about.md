@@ -23,9 +23,8 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
 real hardware implementations, informing practical cross-layer insights.
 
-**I am looking for students to work with me on research or engineering.** Feel free to email me.
+**I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2027!**
 
-<!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 🧭 Research Tracks {#research-tracks}
 
@@ -34,8 +33,6 @@ real hardware implementations, informing practical cross-layer insights.
 **II. Systems for AI Deployment** — end-to-end serving systems that run AI on customized chip clusters (or FPGAs), accessible via web platforms and mobile apps: hardware-aware algorithms · AI compilers (e.g., MLIR) · schedulers — delivering up to two–three orders-of-magnitude cost and energy advantages over GPU baselines in edge workloads.
 
 **III. AI for Chip Design** — silicon-validated, agent-driven design flows that carry a chip from idea to GDS, through tape-out, to measured silicon and live demos, in a closed loop, now applied in our ongoing tape-outs.
-
-
 
 
 # 🍀 Chip Gallery {#chip-gallery}
@@ -61,7 +58,6 @@ Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane F
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2027</div><img src='images/ISSCC2027_LYRA.jpg' alt="LYRA ISSCC 2027" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,7 +69,6 @@ LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial 
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC2026_FlashFPS.png' alt="sym" width="100%"></div></div>
@@ -93,7 +88,6 @@ Point-based Neural Networks (PNNs) have become a key approach for point cloud pr
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR2026_IncVGGT.png' alt="sym" width="100%"></div></div>
@@ -116,27 +110,6 @@ k most relevant/maximum slots together with the most recent one, bounding cache 
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2026</div><img src='images/ISCAS2026_UFP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation
-
-X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**. (**#Corresponding Author**)
-
-*IEEE International Symposium on Circuits and Systems (**ISCAS**) (Accepted)*
-
-<details>
-<summary>Abstract</summary>
-Nonlinear functions are fundamental components in widely applied AI algorithms. However, their hardware implementation presents a major challenge due to the diversity of function types and the full precision requirement (e.g., FP32), which results in significant area and energy overheads. To overcome these issues, we present a Unified Function Processor (UFP) with integer arithmetic, capable of efficiently computing a wide range of nonlinear functions with high accuracy under integer constraints. First, we propose a dynamic programming segmentation algorithm within a third-degree Chebyshev polynomial framework that optimally partitions each function into eight integer-aligned segments to minimize global quantization error. Second, a unified three-stage pipelined hardware with computation element reuse is proposed. Implemented in TSMC 28-nm HPC technology and working at 1GHz, the proposed UFP achieves up to 93.6\% reductions in area compared to the state-of-the-art works, with a 79\% lower energy consumption. The architecture flexibly supports all mainstream functions in AI algorithms with configurable precision and range, offering a compact and scalable solution for AI acceleration hardware.
-
-</details>
-
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2026</div><img src='images/TCAS-I-CVR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,7 +129,6 @@ In this paper, A CMOS voltage reference (CVR) with two-stage self-biased stacked
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -174,7 +146,6 @@ Three-dimensional (3D) point clouds are increasingly used in applications such a
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color:#c8102e;">ISSCC 2025</div><img src='images/ISSCC_Nebula.jpg' alt="sym" width="100%"></div></div>
@@ -208,26 +179,6 @@ H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>#**, Y. Zhu, and J. Ha
 <details>
 <summary>Abstract</summary>
 The reproduction of hardware architectures from academic papers remains a significant challenge due to the lack of publicly available source code and the complexity of hardware description languages (HDLs). To this end, we propose ArchCraft, a Framework that converts abstract architectural descriptions from academic papers into synthesizable Verilog projects with register-transfer level (RTL) verification. ArchCraft introduces a structured workflow, which uses formal graphs to capture the Architectural Blueprint and symbols to define the Functional Specification, translating unstructured academic papers into verifiable, hardware-aware designs. The framework then generates RTL and testbench (TB) code decoupled via these symbols to facilitate verification and debugging, ultimately reporting the circuit's Power, Area, and Performance (PPA). Moreover, we propose the first benchmark, ArchSynthBench, for synthesizing hardware from architectural descriptions, with a complete set of evaluation indicators, 50 project-level circuits, and around 600 circuit blocks. We systematically assess ArchCraft on ArchSynthBench, where the experiment results demonstrate the superiority of our proposed method, surpassing direct generation methods and the VerilogCoder framework in both paper understanding and code completion. Furthermore, evaluation and physical implementation of the generated executable RTL code show that these implementations meet all timing constraints without violations, and their performance metrics are consistent with those reported in the original papers.
-
-</details>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2024</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
-
-**<u>C. Zhou</u>**\*, Y. Fu*, Y. Ma, E. Han, Y. He, and H. Jiao
-
-*IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)*
-
-
-<details>
-<summary>Abstract</summary>
-Point cloud is increasingly used in a variety of applications. Farthest Point Sampling (FPS) is typically employed for down-sampling to reduce the size of point cloud and enhance the representational capability by preserving contour points in point cloud analysis. However, due to low parallelism and high computational complexity, high energy consumption and long latency are caused, which becomes a bottleneck of hardware acceleration. In this brief, we propose an adjustable multi-stream block-wise FPS, adjusted by four configurable parameters, according to hardware and accuracy requirements. A unified hardware architecture is designed to implement the adjustable multi-stream block-wise FPS. Furthermore, we present a rapid searching algorithm to select the optimal configuration of the four parameters. Designed in an industrial 28-nm CMOS technology, the proposed hardware architecture achieves a latency of 0.005 ms and a frame energy consumption of 0.09 µJ/frame for 1 k input points at 200 MHz and 0.9 V supply voltage. Compared to the state of the art, the proposed hardware architecture reduces the latency by up to 84.38%, saves the energy by up to 76.19%, and improves the network accuracy by up to 1.05%.
 
 </details>
 
@@ -295,258 +246,90 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 </div>
 
 
-# 📚 Collaborative Publications {#collaborative}
-
-*Co-authored work from collaborative chip and system projects.*
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2026</div><img src='images/ISCA2026_EVA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture
-
-B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
-
-*ACM International Symposium on Computer Architecture (**ISCA**) (Accepted)*
-
-<details>
-<summary>Abstract</summary>
-Large Language Models (LLMs) have achieved impressive performance across diverse domains but remain inefficient during the auto-regressive decoding phase. Unlike the prefill stage, which employs compute-bound GEMM operations, decoding executes a sequence of small GEMV computations that are memory-bound and underutilize modern accelerators. Weight-only vector quantization (VQ) has emerged as an effective compression technique that clusters model weights into a shared codebook and replaces the original weight matrix with lowprecision indices, enabling 2-bit-level weight compression. While this approach substantially reduces model size and memory bandwidth, it still suffers from two critical inefficiencies: the low utilization of GEMV computation and frequent memory conflicts during codebook lookups. This paper presents EVA, an efficient vector-quantizationbased architecture that addresses both computational and memory bottlenecks in LLM decoding. EVA builds on a simple yet effective insight that combines input–codebook computation with conflict-free memory access. Instead of reconstructing quantized weights from indices, EVA directly performs dot products between input vectors and the weight codebook, transforming LLM decoding from GEMV to GEMM computation. It then performs structured lookups from an intermediate output buffer, eliminating memory bank conflicts. We further design a hardware–software co-optimized architecture specialized for LLM decoding while remaining compatible with conventional prefill execution. Evaluations show that EVA achieves up to 11.18× speedup and 7.17× higher energy efficiency compared with the SOTA lookup-based architecture, while preserving arithmetic precision after vector quantization..
-
-</details>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_NP-CAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550)
-
-B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li
-
-*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
-
-<details>
-<summary>Abstract</summary>
-The rapid advancement in genomic sequencing technologies has resulted in an explosion of data, creating substantial computational bottlenecks in DNA analysis workloads. Applications such as DNA classification are particularly impacted due to their reliance on intensive, large-scale pattern matching. Existing hardware accelerator and software solutions are increasingly unable to manage the scale and energy demands of these datasets, highlighting the need for architectures that can perform faster and more efficient pattern matching. To address these challenges, we propose NP-CAM: a data-optimized, CAM-based accelerator designed for parallel and energy-efficient DNA classification. NP-CAM harnesses a network-on-chip to implement a novel optimized indexing and CAM partitioning scheme that reduces the active search space, allowing significant scalability. We demonstrate results for NP-CAM on commodity 10T binary CAM cell designs. Our experimental evaluations show that NP-CAM achieves a simultaneous 65× improvement in sequence throughput and an over 173× improvement in energy efficiency over state-of-the-art hardware solutions on existing small viral workloads. We go on to demonstrate feasibility for larger bacterial and fungal workloads, enabling scalable DNA classification in the era of large-scale genomic data.
-
-</details>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/HPCA2026_Focus.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://ieeexplore.ieee.org/document/11408525)
-
-C. Wei, C. Guo, J. Zhang, H. Shan, Y. Xu, Z. Zhang, Y. Liu, Q. Wang, **<u>C. Zhou</u>**, H. Li, and Y. Chen
-
-*IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
-
-<details>
-<summary>Abstract</summary>
-Vision-Language Models (VLMs) have demonstrated strong performance on tasks such as video captioning and visual question answering. However, their growing scale and video-level inputs lead to significant computational and memory overhead, posing challenges for real-time deployment on hardware accelerators. While prior work attempts to reduce redundancy via token pruning or merging, these methods typically operate at coarse granularity and incur high runtime overhead due to global token-level operations. In this study, we propose Focus, a Streaming Concentration Architecture that efficiently accelerates VLM inference through progressive, fine-grained redundancy elimination. Focus introduces a multilevel concentration paradigm that hierarchically compresses vision-language inputs at three levels: (1) semantic-guided token pruning based on textual prompts, (2) spatial-temporal block-level concentration using localized comparisons, and (3) vector-level redundancy removal via motion-aware matching. All concentration steps are tightly co-designed with the architecture to support streaming-friendly, on-chip execution. Focus leverages GEMM tiling, convolution-style layout, and cross-modal attention to minimize off-chip access while enabling high throughput. Implemented as a modular unit within a systolic-array accelerator, Focus achieves up to 5.0× reduction in computation and 4.5× reduction in memory access, significantly outperforming prior hardware baselines in both performance and energy efficiency.
-
-</details>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSSC 2026</div><img src='images/VLSI25_PANDA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PANDA: A Reconfigurable Seizure Prediction and Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11570998/)
-
-S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao
-
-*IEEE Journal of Solid-State Circuits (**JSSC**)*
-
-<details>
-<summary>Abstract</summary>
-For effective healthcare management of epilepsy patients in a non-hospital environment, continuous monitoring of EEG signals is crucial, where wearable intelligent devices are essential. The existing seizure monitoring devices, however, cannot achieve high sensitivity, a short detection latency, a low false alarm rate (FAR), as well as ultra-low-power computing simultaneously. These devices also struggle to keep pace with the rapid iteration of seizure monitoring algorithms. In this article, PANDA, a reconfigurable seizure Prediction ANd Detection neural network Accelerator, is proposed. A lightweight, two-stage seizure monitoring framework with temporal neural network splitting (TNNS) is deployed on PANDA, which significantly reduces the amount of computations while maintaining high classification performance. An input channel first-output stationary (IFOS) dataflow, a zero activation skipping (ZAS) scheme, and orthogonal data reuse technique are employed to enhance the computation efficiency. A weight cache with statistical information (WCSI) is also proposed to minimize weight memory access. Furthermore, PANDA employs a custom instruction set, enabling the flexible deployment of various neural networks. PANDA is fabricated using a 65-nm CMOS technology and evaluated on two open-source datasets. For the CHB-MIT scalp EEG dataset, PANDA achieves 99.0% sensitivity, 0.47/h FAR, and 3.49 s detection latency. For the SWEC-ETHZ iEEG dataset, PANDA achieves a 98.2% sensitivity, 0.60/h FAR, and 4.61 s detection latency. Compared with the state-of-the-art designs, PANDA enhances energy efficiency by up to 5.49× while maintaining competitive classification performance, providing a reconfigurable and energy-efficient solution for wearable epilepsy healthcare systems.
-
-</details>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ECCO_ISCA25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://dl.acm.org/doi/10.1145/3695053.3731024)
-
-F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen.
-
-*ACM International Symposium on Computer Architecture (**ISCA**)*
-
-
-<details>
-<summary>Abstract</summary>
-Large language models (LLMs) have demonstrated transformative capabilities across diverse artificial intelligence applications, yet their deployment is hindered by substantial memory and computational demands, especially in resource-constrained environments. Quantization techniques have emerged as a critical solution, reducing data precision to enhance memory and computational efficiency. However, existing methods often suffer from high runtime overheads and potential accuracy degradation. To address these challenges, we propose Ecco, an entropy-based cache compression technique tailored for LLMs. Ecco combines group-wise and nonuniform quantization with pre-defined shared k-means patterns and Huffman coding to exploit the inherent entropy characteristics of LLM cache data. Recognizing the inefficiencies of traditional Huffmancoding in terms of parallelism and latency, we introduce a novel parallel Huffman-based decoding process with a multi-stage pipeline design, reducing latency by two orders of magnitude and achieving throughput comparable to GPU L2 caches. Comprehensive evaluations demonstrate that Ecco achieves an up to 2.9× and 1.9× speedup over the state-of-the-art AWQ and SmoothQuant framework, 2.4× over the Olive accelerator, all while increasing memory capacity by nearly 4× and maintaining state-of-the-art LLM accuracy. These results underscore the effectiveness of our entropy-based cache compression in enhancing LLM performance and efficiency, paving the way for more deployable large-scale AI models.
-
-</details>
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/TIM25_2StageEEG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring](https://ieeexplore.ieee.org/document/10950403/)
-
-S. Qiu, W. Wang, **<u>C. Zhou</u>**, X. Song, J. Yang, and H. Jiao
-
-*IEEE Transactions on Instrumentation and Measurement  (**TIM**)*
-
-
-<details>
-<summary>Abstract</summary>
-The monitoring of epilepsy patients in non-hospital environment is highly desirable, where ultra-low power wearable devices are essential in such a system. The state-of-the-art epileptic seizure detection algorithms targeting such devices cannot achieve high sensitivity, short detection latency, low false alarm rate (FAR), as well as lightweight computing simultaneously. In this paper, we propose a two-stage prediction + detection deep neural network model, PDNet, for real-time epileptic seizure monitoring. The proposed two-stage PDNet model consists of a lightweight seizure predictor and a high-precision seizure detector. Only when the first-stage seizure predictor forecasts an impending seizure, the second-stage seizure detector is activated to precisely and rapidly classify the seizure states, thereby significantly suppressing the amount of computations. A semi-supervised learning strategy is employed to enhance the decision boundary of the seizure predictor, which is used for EEG pre-processing instead of pure prediction. Soft labels are adopted to enable the seizure detector to precisely classify the seizure states. The proposed PDNet is evaluated using the CHB-MIT scalp EEG database. When running the proposed prediction and detection models together for seizure detection purpose, the PDNet achieves 99.0% sensitivity, 0.54/h FAR, and 3.45-second detection latency with 3.03M multiply–accumulate (MAC) operations, which are competitive compared to the state of the art in terms of sensitivity, detection latency, FAR, and computation complexity. Furthermore, the fine-grained information such as the occurrence process of seizures demonstrated by soft labels can help the caregivers or clinicians to come up with targeted healthcare and clinical treatments.
-
-</details>
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symp. VLSI 2025</div><img src='images/VLSI25_PANDA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11075036/)
-
-S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao
-
-*IEEE Symposium on VLSI Technology and Circuits (**Symp. VLSI**)*
-
-
-<details>
-<summary>Abstract</summary>
-PANDA, a reconfigurable seizure prediction and detection neural network accelerator, is presented. A lightweight twostage seizure monitoring framework with temporal neural
-network splitting is proposed to be deployed on PANDA. Channel first-output stationary dataflow with zero activation skipping and weight cache with statistical information are employed for higher energy efficiency. A flexible instruction set is defined to make PANDA highly configurable. For seizure monitoring, PANDA achieves up to 99% sensitivity, 0.43/h false alarm rate (FAR), and 3.178 TOPS/W energy efficiency.
-
-</details>
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBioCAS 2025</div><img src='images/EEG_TBioCAS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Energy-Efficient Configurable 1-D CNN-Based Multi-Lead ECG Classification Coprocessor for Wearable Cardiac Monitoring Devices](https://ieeexplore.ieee.org/abstract/document/10844856)
-
-C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang
-
-*IEEE Transactions on Biomedical Circuits and Systems (**TBioCAS**)*
-
-
-<details>
-<summary>Abstract</summary>
-Many electrocardiogram (ECG) processors have been widely used for cardiac monitoring. However, most of them have relatively low energy efficiency, and lack configurability in classification leads number and inference algorithm models. A multi-lead ECG coprocessor is proposed in this paper, which can perform efficient ECG anomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, a method based on zero-crossing slope adaptive threshold comparison is proposed. Also, a one-dimensional convolutional neural network (1-D CNN) based classification engine with reconfigurable processing elements (PEs) is designed, good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the PE chains with register level data reuse strategy. To improve configurability, a single instruction multiple data (SIMD) based central controller is adopted, which facilitates ECG classification with configurable number of leads and updatable inference models. The proposed ECG coprocessor is fabricated using 55 nm CMOS technology, supporting classification with an accuracy of over 98%. The test results indicate that the chip consumes 62.2 nJ at 100 MHz, which is lower than most recent works. The energy efficiency reaches 397.1 GOPS/W, achieving an improvement of over 40% compared to the reported ECG processors using CNN models. The comparison results show that this design has advantages in energy overhead and configurability.
-
-</details>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/BSPC25_3DCNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Automatic epileptic seizure detection with an ultra lightweight 3D-CNN model](https://www.sciencedirect.com/science/article/pii/S1746809425007712)
-
-C. Xie, S. Qiu, **<u>C. Zhou</u>**, X. Song, J. Yang, J. Huang, W. Wang, and H. Jiao
-
-*Biomedical Signal Processing and Control (**BSPC**)*
-
-<details>
-<summary>Abstract</summary>
-Health monitoring devices can provide real-time early warning information for epilepsy patients, where automatic epileptic seizure detection is essential. Conventional machine learning methods for automatic seizure detection are based on manual feature engineering, which relies on the experience of experts. Alternatively, deep learning models have been employed to automatically perform feature extraction and seizure detection, however, typically at the cost of high computational complexity. In this paper, we propose an ultra-lightweight three-dimensional convolutional neural network (3D-CNN) for automatic seizure detection. A temporal-spatial separable 3D convolution is proposed, in which the 3D convolution is decomposed into one-dimensional (1D) convolution and two-dimensional (2D) convolution to reduce parameters and calculations. Depth-wise separable convolution and global average pooling are employed to compress the proposed model. A post-processing strategy combining delayed alarm and exponential moving average (EMA), is proposed to further reduce the false alarm rate of the proposed model. Evaluated with the CHB-MIT Scalp EEG database, the proposed ultra lightweight 3D-CNN model achieves a seizure detection rate of 99.24 %, an average detection delay of 4.97 s, and an average false alarm rate of 0.53/h with 6.54 k parameters and 2.39 M MACs, which are competitive compared to the state of the art. The proposed ultra lightweight 3D-CNN model therefore provides an attractive option for wearable epileptic seizure detection in non-hospital environment.
-
-</details>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2024</div><img src='images/ISCAS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10557838)
-
-C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang
-
-*IEEE International Symposium on Circuits and Systems (**ISCAS**)*
-
-
-<details>
-<summary>Abstract</summary>
-Many healthcare devices have been widely used for electrocardiogram (ECG) monitoring. However, most of them have relatively low energy efficiency and lack flexibility. A novel ECG coprocessor is proposed in this paper, which can perform efficient ECG nomaly detection. In order to achieve high sensitivity and positive precision of R-peak detection, an algorithm based on Hilbert transform and adaptive threshold comparison is proposed. Also, a flexible one-dimensional convolutional neural network (1-D CNN) based classification engine is adopted, which can be configured with instructions to process various network models for ifferent applications. Good energy efficiency is achieved by combining filter level parallelism and output channel parallelism within the processing element (PE) array with data reuse strategy. A 1-D CNN for arrhythmia detection is proposed to validate the hardware performance. The proposed ECG coprocessor is implemented using 55 nm CMOS technology, occupying an area of 1.39 mm2. At a clock frequency of 100MHz, the energy efficiency is 215.6 nJ/classification. The comparison results show that this design has advantages in energy overhead and detection performance.
-
-</details>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCAS-I.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359/)
-
-Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.
-
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
-
-
-<details>
-<summary>Abstract</summary>
-Transformer-based deep learning networks are revolutionizing our society. The convolution and attention codesigned (CAC) Transformers have demonstrated superior performance compared to the conventional Transformer-based networks. However, CAC Transformer networks contain various nonlinear functions, such as softmax and complex activation functions, which require high precision hardware design yet typically with significant cost in area and power consumption. To address these challenges, SoftAct, a compact and high-precision algorithm-hardware co-designed architecture, is proposed to implement both softmax and nonlinear activation functions in CAC Transformer accelerators. An improved softmax algorithm with penalties is proposed to maintain precision in hardware. A stage-wise full zero detection method is developed to skip redundant computation in softmax. A compact and reconfigurable architecture with a symmetrically designed linear fitting module is proposed to achieve nonlinear functions. The SoftAct architecture is designed in an industrial 28-nm CMOS technology with the MobileViT-xxs network as the benchmark. Compared with the state of the art, SoftAct achieves up to 35.14% network accuracy improvement, 10× maximum frequency, and 809× overall efficiency.
-
-</details>
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CNN Accelerator at the Edge with Adaptive Zero Skipping and Sparsity-Driven Data Flow](https://ieeexplore.ieee.org/abstract/document/10122694/)
-
-M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.
-
-*IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
-
-
-<details>
-<summary>Abstract</summary>
-An energy-efficient convolutional neural network (CNN) accelerator is proposed for low-power inference on edge devices. An adaptive zero skipping technique is proposed to dynamically skip the zeros in either activations or weights, depending on which has the higher sparsity. The characteristic of non-zero data aggregation is explored to enhance the effectiveness of adaptive zero skipping in performance boosting. To mitigate the load imbalance issue after zero skipping, a sparsity-driven data flow and low-complexity dynamic task allocation are employed for different convolution layers. Facilitated further by a two-stage distiller, the proposed accelerator achieves 5.42×, 3.41×, and 3.42× performance boosting for VGG16, AlexNet, and Mobilenet-v1, respectively, compared to the baseline. Implemented in a 55-nm low power CMOS technology, the proposed accelerator achieves an effective energy efficiency of 2.41 TOPS/W, 2.35 TOPS/W, and 0.64 TOPS/W for VGG16, AlexNet, and Mobilenet-v1, respectively, at 100 MHz and 1.08 V supply voltage.
-
-</details>
-
-</div>
-</div>
+# 📚 Full Publication List {#full-list}
+
+**<u>C. Zhou</u>**: me · #: corresponding author · \*: equal contribution
+
+**Lead-Author (First or Corresponding Author)**
+
+- **[1]** `ISSCC 2027` Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane Folding for 8K Edge Image Generation  
+  **<u>C. Zhou</u>**, Z. Guo, Z. Xu, E. Dai, Y. Zhong, G. Zhou, J. Zhang, J. Ku, H. Li, and Y. Chen.  
+  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.6 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+- **[2]** `ISSCC 2027` LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference  
+  **<u>C. Zhou</u>**\*, Y. Ma\*, W. Luo, X. Wang, Z. Li, Z. Guo, Y. Jiang, Z. Guo, Z. Gao, Y. Lin, H. He, A. Li, Y. Fu, S. Qiu, C. Zhang, Y. He, G. Li, Y. Yang, and H. Jiao.  
+  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.2 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+- **[3]** `DAC 2026` FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching  
+  Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen.  
+  *IEEE/ACM Design Automation Conference (**DAC**) (Accepted)*
+- **[4]** `ICLR 2026` [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y)  
+  K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen.  
+  *International Conference on Learning Representations (**ICLR**) (Accepted)*
+- **[5]** `ISCAS 2026` A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation  
+  X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**.  
+  *IEEE International Symposium on Circuits and Systems (**ISCAS**) (Accepted)*
+- **[6]** `TCAS-I 2026` [A CMOS Voltage Reference Featuring a Tandem Differential Structure With Two-Stage Stacked Diode-Connected MOSFETs Core](https://ieeexplore.ieee.org/document/11301867)  
+  Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#.  
+  *IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)*
+- **[7]** `HPCA 2026` [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://ieeexplore.ieee.org/document/11408589)  
+  Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo#, H. Li, and Y. Chen.  
+  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
+- **[8]** `ISSCC 2025` [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/document/10904703)  
+  **<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao.  
+  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers*
+- **[9]** `arXiv 2025` [Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067)  
+  H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>#**, Y. Zhu, and J. Hao.  
+  *arXiv preprint arXiv:2511.06067*
+- **[10]** `TCAS-II 2024` [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)  
+  **<u>C. Zhou</u>**\*, Y. Fu\*, Y. Ma, E. Han, Y. He, and H. Jiao.  
+  *IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)*
+- **[11]** `ICCAD 2023` [An Energy-Efficient 3D Point Cloud Neural Network Accelerator With Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)  
+  **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.  
+  *IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)*
+- **[12]** `IOT Journal 2023` [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/abstract/document/10224248/)  
+  **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.  
+  *IEEE Internet of Things Journal (**IOT Journal**)*
+- **[13]** `DAC 2021` [An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance](https://ieeexplore.ieee.org/document/9586299)  
+  **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.  
+  *IEEE/ACM Design Automation Conference (**DAC**)*
+
+**Co-Author**
+
+- **[14]** `ISCA 2026` EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture  
+  B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen.  
+  *ACM International Symposium on Computer Architecture (**ISCA**) (Accepted)*
+- **[15]** `HPCA 2026` [NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550)  
+  B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li.  
+  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
+- **[16]** `HPCA 2026` [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://ieeexplore.ieee.org/document/11408525)  
+  C. Wei, C. Guo, J. Zhang, H. Shan, Y. Xu, Z. Zhang, Y. Liu, Q. Wang, **<u>C. Zhou</u>**, H. Li, and Y. Chen.  
+  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
+- **[17]** `JSSC 2026` [PANDA: A Reconfigurable Seizure Prediction and Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11570998/)  
+  S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao.  
+  *IEEE Journal of Solid-State Circuits (**JSSC**)*
+- **[18]** `ISCA 2025` [Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://dl.acm.org/doi/10.1145/3695053.3731024)  
+  F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen.  
+  *ACM International Symposium on Computer Architecture (**ISCA**)*
+- **[19]** `TIM 2025` [A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring](https://ieeexplore.ieee.org/document/10950403/)  
+  S. Qiu, W. Wang, **<u>C. Zhou</u>**, X. Song, J. Yang, and H. Jiao.  
+  *IEEE Transactions on Instrumentation and Measurement  (**TIM**)*
+- **[20]** `Symp. VLSI 2025` [PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11075036/)  
+  S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao.  
+  *IEEE Symposium on VLSI Technology and Circuits (**Symp. VLSI**)*
+- **[21]** `TBioCAS 2025` [An Energy-Efficient Configurable 1-D CNN-Based Multi-Lead ECG Classification Coprocessor for Wearable Cardiac Monitoring Devices](https://ieeexplore.ieee.org/abstract/document/10844856)  
+  C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang.  
+  *IEEE Transactions on Biomedical Circuits and Systems (**TBioCAS**)*
+- **[22]** `BSPC 2025` [Automatic epileptic seizure detection with an ultra lightweight 3D-CNN model](https://www.sciencedirect.com/science/article/pii/S1746809425007712)  
+  C. Xie, S. Qiu, **<u>C. Zhou</u>**, X. Song, J. Yang, J. Huang, W. Wang, and H. Jiao.  
+  *Biomedical Signal Processing and Control (**BSPC**)*
+- **[23]** `ISCAS 2024` [An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10557838)  
+  C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang.  
+  *IEEE International Symposium on Circuits and Systems (**ISCAS**)*
+- **[24]** `TCSVT 2024` [SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359/)  
+  Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.  
+  *IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
+- **[25]** `TCSVT 2023` [CNN Accelerator at the Edge with Adaptive Zero Skipping and Sparsity-Driven Data Flow](https://ieeexplore.ieee.org/abstract/document/10122694/)  
+  M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.  
+  *IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
 
 # 👥 Research Mentoring {#mentoring}
 
@@ -579,13 +362,14 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
 - *2018.09 - 2024.01*, Doctor of Philosophy in Microelectronics and Solid-State Electronics, Peking University, Beijing, China. Thesis Title: Research on On-Chip Neural Network Accelerators for 3D Understanding.
 - *2014.09 - 2018.06*, Bachelor of Engineering in Microelectronics Science and Engineering, Sun Yat-sen University, Guangzhou, China.
 
-<!--# 🔥 News {#news}
-- *YYYY.MM*: &nbsp;🎉 ... -->
 
 # 🎖 Honors and Awards {#honors}
+- 11/2026 ISSCC 2027 Session Highlight, two papers (*LYRA* and *Fornax*)
+- 02/2026 Best Paper Nomination, *IEEE HPCA 2026*
 - 12/2023 Leo KoGuan Scholarship (1/157, ¥20,000), *Peking University*                                                      
 - 12/2023 Exceptional Award for Academic Innovation, *Peking University*                                                                                                                  
 - 12/2022 Award for Scientific Research, *Peking University*                                                                                                                                  
+- 05/2021 Best Presentation Award, *IEEE CASS Shanghai and Shenzhen Joint Workshop (SSJW 2021)*
 
 # 👔 Academic Service {#service}
 - **Technical Program Committee:**
@@ -604,147 +388,7 @@ An energy-efficient convolutional neural network (CNN) accelerator is proposed f
   - IEEE Internet of Things Journal (**IoT-J**)
   - IEEE Journal of Biomedical and Health Informatics (**JBHI**)
 
-<!-- 
-# 🍀 Tape Out
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/DiffusionChip.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A energy-efficient diffusion chip for real-time and high-resolution images/videos generation at the edge.
-
-12/2025 (Expected), Project Leader
-
-*Fabricated in TSMC 16-nm FinFET technology with an expected area of 2 mm×4 mm*
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/TinyDiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A bit-variable reconfigurable chip for accelerating transformer-based networks at the edge.
-
-06/2025, Collaboration
-
-*Fabricated in TSMC 40-nm technology with an expected area of 1 mm×2 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer</div><img src='images/nebula_v2_chip.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-An energy-efficient acceleration chip supporting transformer-based networks.
-
-04/2025 (Expected), Project Leader
-
-*Fabricated in TSMC 28-nm HPC technology with an expected area of 2 mm×3 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point Cloud</div><img src='images/28nm.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator.
-
-08/2023, Project Leader
-
-*Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-CNN</div><img src='images/55nm_micrograph.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding
-
-08/2020, Project Leader
-
-*Fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1D-CNN</div><img src='images/1DCNN_Chips.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-1D-CNN accelerators for medical analysis
-
-06/2024, Collaboration
-
-*Fabricated in UMC 55-nm and TSMC 65-nm low-power CMOS technology*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2D-CNN</div><img src='images/LIU_28_Chip.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A 2.4 TOPS/W CNN accelerator with adaptive zero skipping and sparsity-driven dataflow
-
-06/2022, Collaboration
-
-*Fabricated in TSMC 28-nm HPC technology with an area of 2.0 mm×1.35 mm*
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2D-CNN</div><img src='images/LIU_55_Chip.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A 2.0 TOPS/W CNN accelerator skipping invalid activations
-
-10/2019, Collaboration
-
-*Fabricated in UMC 55-nm low-power CMOS technology with an area of 3.4 mm×2.3 mm*
-
-</div>
-</div> -->
-
-
-
-
-<!-- # 💻 Skills
-- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Training
-- Tools: Cadence, Vivado, PyTorch, TensorFlow 
-- Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
-
-# 💬 About Me
-- I am an Easy Going and Self-Motivated Person. Feel Free to Reach out Anytime!
-- Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis. -->
-
 <div style="width:67%; margin:0 auto;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_BR7QekQGZnFn3itv4-ySG-lm-FuV_MoJjqvcMQ5LXo&cl=ffffff&w=a"></script>
 </div>
 
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
