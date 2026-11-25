@@ -23,7 +23,11 @@ I am currently a Postdoctoral Fellow at the Duke Center for Computational Evolut
 My research interest is energy-efficient AI chips for edge computing via cross-layer innovations, spanning from algorithms to architecture and circuit design. My research directions are guided by bottlenecks observed in
 real hardware implementations, informing practical cross-layer insights.
 
-**I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2027!**
+**I am looking for students to work with me on research or engineering.** Feel free to email me.
+
+<div style="margin:0.4em 0 0.2em 0;"><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Integrated Circuits</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Computer Architecture</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Algorithm–Hardware Co-Design</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Edge AI &amp; Robotics</span></div>
+
+<div style="margin:0.4em 0 1.2em 0;padding:7px 16px;border:1px solid #f3d0d0;border-left:4px solid #b31b1b;border-radius:6px;background:#fff5f5;color:#a61b1b;font-weight:600;font-size:.9em;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2027!</div>
 
 
 # 🧭 Research Tracks {#research-tracks}
@@ -248,88 +252,88 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 # 📚 Full Publication List {#full-list}
 
-**<u>C. Zhou</u>**: me · #: corresponding author · \*: equal contribution
+**<u>C. Zhou</u>**: me; #: Corresponding Author; \*: Equal Contribution
 
 **Lead-Author (First or Corresponding Author)**
 
-- **[1]** `ISSCC 2027` Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane Folding for 8K Edge Image Generation  
-  **<u>C. Zhou</u>**, Z. Guo, Z. Xu, E. Dai, Y. Zhong, G. Zhou, J. Zhang, J. Ku, H. Li, and Y. Chen.  
-  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.6 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
-- **[2]** `ISSCC 2027` LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference  
-  **<u>C. Zhou</u>**\*, Y. Ma\*, W. Luo, X. Wang, Z. Li, Z. Guo, Y. Jiang, Z. Guo, Z. Gao, Y. Lin, H. He, A. Li, Y. Fu, S. Qiu, C. Zhang, Y. He, G. Li, Y. Yang, and H. Jiao.  
-  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers, Paper 34.2 (Accepted)* <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
-- **[3]** `DAC 2026` FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching  
-  Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen.  
-  *IEEE/ACM Design Automation Conference (**DAC**) (Accepted)*
-- **[4]** `ICLR 2026` [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y)  
-  K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen.  
-  *International Conference on Learning Representations (**ICLR**) (Accepted)*
-- **[5]** `ISCAS 2026` A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation  
-  X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**.  
-  *IEEE International Symposium on Circuits and Systems (**ISCAS**) (Accepted)*
-- **[6]** `TCAS-I 2026` [A CMOS Voltage Reference Featuring a Tandem Differential Structure With Two-Stage Stacked Diode-Connected MOSFETs Core](https://ieeexplore.ieee.org/document/11301867)  
-  Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#.  
-  *IEEE Transactions on Circuits and Systems I: Regular Papers (**TCAS-I**)*
-- **[7]** `HPCA 2026` [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://ieeexplore.ieee.org/document/11408589)  
-  Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo#, H. Li, and Y. Chen.  
-  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
-- **[8]** `ISSCC 2025` [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/document/10904703)  
-  **<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao.  
-  *IEEE International Solid-State Circuits Conference (**<font color=red>ISSCC</font>**) Dig. Tech. Papers*
-- **[9]** `arXiv 2025` [Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067)  
-  H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>#**, Y. Zhu, and J. Hao.  
-  *arXiv preprint arXiv:2511.06067*
-- **[10]** `TCAS-II 2024` [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)  
-  **<u>C. Zhou</u>**\*, Y. Fu\*, Y. Ma, E. Han, Y. He, and H. Jiao.  
-  *IEEE Transactions on Circuits and Systems II: Express Briefs (**TCAS-II**)*
-- **[11]** `ICCAD 2023` [An Energy-Efficient 3D Point Cloud Neural Network Accelerator With Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)  
-  **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao.  
-  *IEEE/ACM International Conference On Computer Aided Design (**ICCAD**)*
-- **[12]** `IOT Journal 2023` [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/abstract/document/10224248/)  
-  **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao.  
-  *IEEE Internet of Things Journal (**IOT Journal**)*
-- **[13]** `DAC 2021` [An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance](https://ieeexplore.ieee.org/document/9586299)  
-  **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao.  
-  *IEEE/ACM Design Automation Conference (**DAC**)*
+**[1]** <span style="display:inline-block;background:#c8102e;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISSCC 2027</span> **<u>C. Zhou</u>**, Z. Guo, Z. Xu, E. Dai, Y. Zhong, G. Zhou, J. Zhang, J. Ku, H. Li, and Y. Chen; Fornax: A 16nm 16-Die Diffusion Processor with Fractal Recursion and Bit-Plane Folding for 8K Edge Image Generation. In IEEE International Solid-State Circuits Conference (ISSCC) Dig. Tech. Papers, Paper 34.6, 2027. (Accepted) <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+{: style="margin-bottom:0.8em;"}
+
+**[2]** <span style="display:inline-block;background:#c8102e;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISSCC 2027</span> **<u>C. Zhou</u>**\*, Y. Ma\*, W. Luo, X. Wang, Z. Li, Z. Guo, Y. Jiang, Z. Guo, Z. Gao, Y. Lin, H. He, A. Li, Y. Fu, S. Qiu, C. Zhang, Y. He, G. Li, Y. Yang, and H. Jiao; LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference. In IEEE International Solid-State Circuits Conference (ISSCC) Dig. Tech. Papers, Paper 34.2, 2027. (Accepted) <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
+{: style="margin-bottom:0.8em;"}
+
+**[3]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">DAC 2026</span> Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen; FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching. In IEEE/ACM Design Automation Conference (DAC), 2026. (Accepted)
+{: style="margin-bottom:0.8em;"}
+
+**[4]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ICLR 2026</span> K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen; [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y). In International Conference on Learning Representations (ICLR), 2026. (Accepted)
+{: style="margin-bottom:0.8em;"}
+
+**[5]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCAS 2026</span> X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**; A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation. In IEEE International Symposium on Circuits and Systems (ISCAS), 2026. (Accepted)
+{: style="margin-bottom:0.8em;"}
+
+**[6]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TCAS-I 2026</span> Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#; [A CMOS Voltage Reference Featuring a Tandem Differential Structure With Two-Stage Stacked Diode-Connected MOSFETs Core](https://ieeexplore.ieee.org/document/11301867). In IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2026.
+{: style="margin-bottom:0.8em;"}
+
+**[7]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">HPCA 2026</span> Y. Fu, **<u>C. Zhou</u>#**, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo#, H. Li, and Y. Chen; [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://ieeexplore.ieee.org/document/11408589). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+{: style="margin-bottom:0.8em;"}
+
+**[8]** <span style="display:inline-block;background:#c8102e;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISSCC 2025</span> **<u>C. Zhou</u>**, T. Huang, Y. Ma, Y. Fu, X. Song, S. Qiu, J. Sun, M. Liu, G. Li, Y. He, Y. Yang, and H. Jiao; [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/document/10904703). In IEEE International Solid-State Circuits Conference (ISSCC) Dig. Tech. Papers, 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[9]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">arXiv 2025</span> H. Yang, X. Zhao, Y. Liu, Z. Zou, K. Lyu, **<u>C. Zhou</u>#**, Y. Zhu, and J. Hao; [Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067). arXiv preprint arXiv:2511.06067, 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[10]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TCAS-II 2024</span> **<u>C. Zhou</u>**\*, Y. Fu\*, Y. Ma, E. Han, Y. He, and H. Jiao; [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381). In IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), 2024.
+{: style="margin-bottom:0.8em;"}
+
+**[11]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ICCAD 2023</span> **<u>C. Zhou</u>**, Y. Fu, M. Liu, S. Qiu, G. Li, Y. He, and H. Jiao; [An Energy-Efficient 3D Point Cloud Neural Network Accelerator With Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704). In IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2023.
+{: style="margin-bottom:0.8em;"}
+
+**[12]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">IOT Journal 2023</span> **<u>C. Zhou</u>**, M. Liu, S. Qiu, X. Cao, Y. Fu, Y. He, and H. Jiao; [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/abstract/document/10224248/). In IEEE Internet of Things Journal (IOT Journal), 2023.
+{: style="margin-bottom:0.8em;"}
+
+**[13]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">DAC 2021</span> **<u>C. Zhou</u>**, M. Liu, S. Qiu, Y. He, and H. Jiao; [An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance](https://ieeexplore.ieee.org/document/9586299). In IEEE/ACM Design Automation Conference (DAC), 2021.
+{: style="margin-bottom:0.8em;"}
+
 
 **Co-Author**
 
-- **[14]** `ISCA 2026` EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture  
-  B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen.  
-  *ACM International Symposium on Computer Architecture (**ISCA**) (Accepted)*
-- **[15]** `HPCA 2026` [NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550)  
-  B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li.  
-  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
-- **[16]** `HPCA 2026` [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://ieeexplore.ieee.org/document/11408525)  
-  C. Wei, C. Guo, J. Zhang, H. Shan, Y. Xu, Z. Zhang, Y. Liu, Q. Wang, **<u>C. Zhou</u>**, H. Li, and Y. Chen.  
-  *IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)*
-- **[17]** `JSSC 2026` [PANDA: A Reconfigurable Seizure Prediction and Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11570998/)  
-  S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao.  
-  *IEEE Journal of Solid-State Circuits (**JSSC**)*
-- **[18]** `ISCA 2025` [Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://dl.acm.org/doi/10.1145/3695053.3731024)  
-  F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen.  
-  *ACM International Symposium on Computer Architecture (**ISCA**)*
-- **[19]** `TIM 2025` [A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring](https://ieeexplore.ieee.org/document/10950403/)  
-  S. Qiu, W. Wang, **<u>C. Zhou</u>**, X. Song, J. Yang, and H. Jiao.  
-  *IEEE Transactions on Instrumentation and Measurement  (**TIM**)*
-- **[20]** `Symp. VLSI 2025` [PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11075036/)  
-  S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao.  
-  *IEEE Symposium on VLSI Technology and Circuits (**Symp. VLSI**)*
-- **[21]** `TBioCAS 2025` [An Energy-Efficient Configurable 1-D CNN-Based Multi-Lead ECG Classification Coprocessor for Wearable Cardiac Monitoring Devices](https://ieeexplore.ieee.org/abstract/document/10844856)  
-  C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang.  
-  *IEEE Transactions on Biomedical Circuits and Systems (**TBioCAS**)*
-- **[22]** `BSPC 2025` [Automatic epileptic seizure detection with an ultra lightweight 3D-CNN model](https://www.sciencedirect.com/science/article/pii/S1746809425007712)  
-  C. Xie, S. Qiu, **<u>C. Zhou</u>**, X. Song, J. Yang, J. Huang, W. Wang, and H. Jiao.  
-  *Biomedical Signal Processing and Control (**BSPC**)*
-- **[23]** `ISCAS 2024` [An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10557838)  
-  C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang.  
-  *IEEE International Symposium on Circuits and Systems (**ISCAS**)*
-- **[24]** `TCSVT 2024` [SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359/)  
-  Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao.  
-  *IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
-- **[25]** `TCSVT 2023` [CNN Accelerator at the Edge with Adaptive Zero Skipping and Sparsity-Driven Data Flow](https://ieeexplore.ieee.org/abstract/document/10122694/)  
-  M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao.  
-  *IEEE Transactions on Circuits and Systems for Video Technology(**TCSVT**)*
+**[14]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCA 2026</span> B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen; EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture. In ACM International Symposium on Computer Architecture (ISCA), 2026. (Accepted)
+{: style="margin-bottom:0.8em;"}
+
+**[15]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">HPCA 2026</span> B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li; [NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+{: style="margin-bottom:0.8em;"}
+
+**[16]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">HPCA 2026</span> C. Wei, C. Guo, J. Zhang, H. Shan, Y. Xu, Z. Zhang, Y. Liu, Q. Wang, **<u>C. Zhou</u>**, H. Li, and Y. Chen; [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://ieeexplore.ieee.org/document/11408525). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+{: style="margin-bottom:0.8em;"}
+
+**[17]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">JSSC 2026</span> S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao; [PANDA: A Reconfigurable Seizure Prediction and Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11570998/). In IEEE Journal of Solid-State Circuits (JSSC), 2026.
+{: style="margin-bottom:0.8em;"}
+
+**[18]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCA 2025</span> F. Cheng, C. Guo, C. Wei, J. Zhang, **<u>C. Zhou</u>**, E. Hanson, J. Zhang, X. Liu, H. Li, and Y. Chen; [Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://dl.acm.org/doi/10.1145/3695053.3731024). In ACM International Symposium on Computer Architecture (ISCA), 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[19]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TIM 2025</span> S. Qiu, W. Wang, **<u>C. Zhou</u>**, X. Song, J. Yang, and H. Jiao; [A Two-Stage Prediction + Detection Framework for Real-Time Epileptic Seizure Monitoring](https://ieeexplore.ieee.org/document/10950403/). In IEEE Transactions on Instrumentation and Measurement (TIM), 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[20]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">Symp. VLSI 2025</span> S. Qiu, X. Song, X. Song, **<u>C. Zhou</u>**, X. Song, J. Yang, W. Wang, Y. Yang, and H. Jiao; [PANDA: A 3.178 TOPS/W Reconfigurable Seizure Prediction ANd Detection Neural Network Accelerator for Epilepsy Monitoring](https://ieeexplore.ieee.org/document/11075036/). In IEEE Symposium on VLSI Technology and Circuits (Symp. VLSI), 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[21]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TBioCAS 2025</span> C. Zhang, Z. Huang, **<u>C. Zhou</u>**, A. Qie, and X. Wang; [An Energy-Efficient Configurable 1-D CNN-Based Multi-Lead ECG Classification Coprocessor for Wearable Cardiac Monitoring Devices](https://ieeexplore.ieee.org/abstract/document/10844856). In IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[22]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">BSPC 2025</span> C. Xie, S. Qiu, **<u>C. Zhou</u>**, X. Song, J. Yang, J. Huang, W. Wang, and H. Jiao; [Automatic epileptic seizure detection with an ultra lightweight 3D-CNN model](https://www.sciencedirect.com/science/article/pii/S1746809425007712). In Biomedical Signal Processing and Control (BSPC), 2025.
+{: style="margin-bottom:0.8em;"}
+
+**[23]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCAS 2024</span> C. Zhang, Z. Huang, Q. Cheng, **<u>C. Zhou</u>**, and X. Wang; [An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10557838). In IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
+{: style="margin-bottom:0.8em;"}
+
+**[24]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TCSVT 2024</span> Y. Fu, **<u>C. Zhou</u>**, T. Huang, E. Han, Y. He, and H. Jiao; [SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359/). In IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
+{: style="margin-bottom:0.8em;"}
+
+**[25]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TCSVT 2023</span> M. Liu, **<u>C. Zhou</u>**, S. Qiu, Y. He, and H. Jiao; [CNN Accelerator at the Edge with Adaptive Zero Skipping and Sparsity-Driven Data Flow](https://ieeexplore.ieee.org/abstract/document/10122694/). In IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023.
+{: style="margin-bottom:0.8em;"}
+
 
 # 👥 Research Mentoring {#mentoring}
 
