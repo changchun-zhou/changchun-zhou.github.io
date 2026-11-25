@@ -359,6 +359,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 - **Ziqian Gao** (Master) — Systems
 - **Kaiwen Tang** (Master) — IC Design
 - **Chengyuan Zhang** (Undergrad) — IC Design
+- **Xudong Zhuang** (Ph.D.) — IC Design
 
 </div>
 
