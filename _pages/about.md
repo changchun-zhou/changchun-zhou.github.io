@@ -27,7 +27,7 @@ real hardware implementations, informing practical cross-layer insights.
 
 <div style="margin:0.4em 0 0.2em 0;"><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Integrated Circuits</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Computer Architecture</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Algorithm–Hardware Co-Design</span><span style="display:inline-block;padding:1px 12px;margin:0 6px 8px 0;border-radius:999px;background:#eef4fc;border:1px solid #cfdcef;color:#1f4e8c;font-weight:600;font-size:.85em;">Edge AI &amp; Robotics</span></div>
 
-<div style="margin:0.4em 0 1.2em 0;padding:7px 16px;border:1px solid #f3d0d0;border-left:4px solid #b31b1b;border-radius:6px;background:#fff5f5;color:#a61b1b;font-weight:600;font-size:.9em;">I am on the job market for tenure-track faculty positions in ECE and CS starting in Fall 2027!</div>
+<div style="margin:0.4em 0 1.2em 0;padding:7px 16px;border:1px solid #f3d0d0;border-left:4px solid #b31b1b;border-radius:6px;background:#fff5f5;color:#a61b1b;font-weight:600;font-size:.9em;">I am on the job market for tenure-track faculty positions starting in Fall 2027!</div>
 
 
 # 🧭 Research Tracks {#research-tracks}
