@@ -354,7 +354,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 - **Tai Yu** (Ph.D.) — IC Design
 - **Junzhao Huang** (Master) — Efficient ML
 - **[Yueyang Zhong](https://and-landy.github.io/)** (Undergrad) — Systems
-- **Haotian Chen** (Master) — IC Design
+- **[Haotian Chen](https://chanchanman2.github.io/)** (Master) — IC Design
 - **Binglin Cheng** (Master) — IC Design
 - **Ziqian Gao** (Master) — Systems
 - **Kaiwen Tang** (Master) — IC Design
