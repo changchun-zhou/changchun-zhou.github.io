@@ -41,7 +41,7 @@ real hardware implementations, informing practical cross-layer insights.
 
 # 🍀 Chip Gallery {#chip-gallery}
 
-<img src="images/chips_platform.jpg?v=20261021" alt="Chip Gallery and Test Platforms" width="92%">
+<img src="images/chips_platform.jpg?v=20261127" alt="Chip Gallery and Test Platforms" width="92%">
 
 
 # 📝 Selected Publications {#publications}
