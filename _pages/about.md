@@ -78,11 +78,11 @@ LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC2026_FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching
+[FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](https://dl.acm.org/doi/10.1145/3770743.3803907)
 
 Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen. (**#Corresponding Author**)
 
-*IEEE/ACM Design Automation Conference (**DAC**) (Accepted)*
+*IEEE/ACM Design Automation Conference (**DAC**)*
 
 <details>
 <summary>Abstract</summary>
@@ -101,7 +101,7 @@ Point-based Neural Networks (PNNs) have become a key approach for point cloud pr
 
 K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen. (**#Corresponding Author**)
 
-*International Conference on Learning Representations (**ICLR**) (Accepted)*
+*International Conference on Learning Representations (**ICLR**)*
 
 <details>
 <summary>Abstract</summary>
@@ -262,13 +262,13 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 **[2]** <span style="display:inline-block;background:#c8102e;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISSCC 2027</span> **<u>C. Zhou</u>**\*, Y. Ma\*, W. Luo, X. Wang, Z. Li, Z. Guo, Y. Jiang, Z. Guo, Z. Gao, Y. Lin, H. He, A. Li, Y. Fu, S. Qiu, C. Zhang, Y. He, G. Li, Y. Yang, and H. Jiao; LYRA: A 3.5nJ/Point Streaming 4D Point-Cloud Transformer Processor with Spatial Registration and Incremental Inference. In IEEE International Solid-State Circuits Conference (ISSCC) Dig. Tech. Papers, Paper 34.2, 2027. (Accepted) <span style="display:inline-block;background-color:#c8102e;color:#fff;font-weight:bold;font-size:.8em;padding:1px 8px;border-radius:3px;">★ Highlight Paper</span>
 {: style="margin-bottom:0.8em;"}
 
-**[3]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">DAC 2026</span> Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen; FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching. In IEEE/ACM Design Automation Conference (DAC), 2026. (Accepted)
+**[3]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">DAC 2026</span> Y. Fu, H. Ye, C. Guo#, J. Zhang, Q. Wang, Y. Lin, **<u>C. Zhou</u>#**, H. Li, and Y. Chen; [FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](https://dl.acm.org/doi/10.1145/3770743.3803907). In IEEE/ACM Design Automation Conference (DAC), 2026.
 {: style="margin-bottom:0.8em;"}
 
-**[4]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ICLR 2026</span> K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen; [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y). In International Conference on Learning Representations (ICLR), 2026. (Accepted)
+**[4]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ICLR 2026</span> K. Fang, **<u>C. Zhou</u>#**, Y. Fu, H. Li, and Y. Chen; [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y). In International Conference on Learning Representations (ICLR), 2026.
 {: style="margin-bottom:0.8em;"}
 
-**[5]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCAS 2026</span> X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**; A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation. In IEEE International Symposium on Circuits and Systems (ISCAS), 2026. (Accepted)
+**[5]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCAS 2026</span> X. Zheng, Z. Guo, and **<u>C. Zhou</u>#**; [A Unified Function Processor with Integer Arithmetic Based on Piecewise Chebyshev Polynomial Approximation](https://ieeexplore.ieee.org/document/11562344). In IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
 {: style="margin-bottom:0.8em;"}
 
 **[6]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">TCAS-I 2026</span> Q. Zhou, Y. Liu, K. Zeng, X. Zhu, **<u>C. Zhou</u>#** and Q. Hua#; [A CMOS Voltage Reference Featuring a Tandem Differential Structure With Two-Stage Stacked Diode-Connected MOSFETs Core](https://ieeexplore.ieee.org/document/11301867). In IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2026.
@@ -298,7 +298,7 @@ Three-dimensional convolutional neural network (3D-CNN) has demonstrated outstan
 
 **Co-Author**
 
-**[14]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCA 2026</span> B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen; EVA: Recasting LLM Decoding into GEMM via an Efficient Vector Quantization Architecture. In ACM International Symposium on Computer Architecture (ISCA), 2026. (Accepted)
+**[14]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">ISCA 2026</span> B. Duan, C. Guo, C. Wei, H. Shan, Y. Fu, X. Chen, Y. Xu, Z. Zhang, **<u>C. Zhou</u>**, H. Li, and Y. Chen; [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://ieeexplore.ieee.org/document/11617907). In ACM International Symposium on Computer Architecture (ISCA), 2026.
 {: style="margin-bottom:0.8em;"}
 
 **[15]** <span style="display:inline-block;background:#3b6fc4;color:#fff;font-family:Menlo,Consolas,monospace;font-size:.82em;padding:0 9px;border-radius:999px;line-height:1.6;">HPCA 2026</span> B. F. Morris III, T. Molom-Ochir, **<u>C. Zhou</u>**, Y. Chen, A. Jones, and H. Li; [NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture](https://ieeexplore.ieee.org/document/11408550). In IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
